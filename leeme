@@ -1,0 +1,28 @@
+Hola Gente:
+Para correr el programa necesitan:
+ * gensim:
+   Instalenlo del archivo comprimido que esta en la carpeta. No esta en los repositorios.
+ * nltk
+
+Si no lo pueden correr avisenme.
+
+Cree un repositorio de en Github:
+www.github.com/sansen/incc
+Diganme si tienen cuenta y los agrego para comittear.
+
+Igualmente adjunto un carpeta con todo en el mail, por si no saben usar git.
+
+Supuestamente el programa hace esto:
+ * Crea un corpus de datos a partir de algunas publicaciones de La Nacion.
+ * Entrena un modelo LSA (o lsi) segun diferente bibliografia.
+ * Luego, toma un texto cualquiera de los autores, lo divide en oraciones
+ * Calcula la coherencia entre oraciones.
+
+Faltaria:
+ * Limpiar los textos (sacarle indices, referencias, palabras que se transcribieron mal, etc)
+ * Sacar palabras del corpus que solo aparezcan una vez y 'stopwords' y signos de puntacion.
+ * Tal vez, estaria bueno crear el corpus con la wikipedia en espaniol. Eso daria mejores resultados.
+ * Calcular coherencia entre parrafos o capitulos de un texto.
+ * Entender mejor el modelo
+ * Comprobar que funcione.
+

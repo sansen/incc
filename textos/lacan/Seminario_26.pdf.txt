@@ -1,0 +1,2152 @@
+La topología y el tiempo
+
+Clase  1
+
+del 21 de Noviembre de 1978
+
+Clase  2
+
+del 12 de Diciembre de 1978
+
+Clase  3
+
+del 19 de Diciembre de 1978
+
+Clase  4
+
+del 9 de Enero de 1979
+
+Clase  5
+
+del 16 de Enero de 1979
+
+Clase  6
+
+del 20 de Febrero de 1979
+
+Clase  7
+
+del 13 de Marzo  de 1979
+
+Clase  8
+
+del 20 de Marzo  de 1979
+
+Clase  9
+
+del 8 de Mayo de 1979
+
+Clase 10
+
+del 15 de Mayo de 1979
+
+21 de Noviembre de 1978
+
+Hay una correspondencia entre la topología y la práctica Esa correspondencia consiste
+en los tiempos. La topología resiste, es en eso que la correspondencia existe.
+
+Hay una banda de Moebius que hemos trazado.
+
+Es lo que se llama una banda triple. Se puede señalar que esa banda triple, lo que la
+carácteriza, es que ella tiene bordes, y que sus bordes son casi como esto:
+
+Y el círculo negro toma entonces ese aspecto. He aquí casi lo que aquello da Aquí el
+círculo negro es blanco (muestra un montaje hecho con un anillo de cuerdecilla blanca
+pasando por el interior de un roleo cuerdecilla amarilla).
+
+Helo aquí, se los paso, Hay un modo, a esa banda, de cubrirla. Luego, eso pasa detrás de
+la banda siguiente.
+
+Sus bordes son así:
+
+Para decir mejor así:
+
+Si ustedes aplanan esos bordes, obtienen algo que se presenta así:
+
+el 6 que se une al 1
+
+Pero lo que es necesario ver, es que lo que pasa detrás de la banda siguiente es
+precisamente lo que vuelve, vuelve delante en la banda 3; luego de lo cual eso vuelve
+detrás, lo que está allí inscripto, quiero decir detrás de la bao da de Moebius triple.
+
+Por esa razón eso vuelve delante. De suerte que lo que se tiene es:
+
+delante 
+
+detrás
+
+Es seguramente lo que —de la banda envolvente— he señalado; ustedes pueden
+manipularla e incluso recubrir la banda triple.
+
+Tienen aquí otro ejemplar de lo que he llamado por el momento la banda envolvente,
+Pueden constatar la identidad con...
+
+Lo que hay de sorprendente, es que la banda de Moebins normal —he aquí un ejemplo—
+una banda de Moebius normal, es decir una banda de Moebius así, tiene igualmente el 1,
+el 2, el, 3 y el 4 en el mismo lugar. Todos aquellos están detrás, y estos están delante.
+
+Hay a pesar de todo una hiancia entre el psicoanálisis y la topología. Esto en lo cual me
+esfuerzo, es en esta hiancia, ella permite en la práctica hacer un cierto número de
+metáforas. Hay una equivalencia entre la estructura y la topología. Es eso, el Ello del cual
+se trata en; roddeck, es eso lo que es el Ello.
+
+Es necesario orientarse en la estructura. No hay como los nudos borromeanos. Para
+generalizar lo que se llama los nudos borromeanos, puede haber un modo de hacer que
+no haga que un nudo borromeano sea —cortando uno— liberado de los otros, Hay una
+cierta forma de precisar que, cortando dos sobre cinco, es muy precisamente lo que se
+necesita para que los tres restantes queden libres. Es lo que se llama la generalización de
+los nudos borromeanos. Cortando dos sobre cinco, los otros tres quedan libres, Intentaría
+darles un ejemplo de eso de aquí a fin de año.
+
+He aquí el 1, pasa aquí detrás del 2 y delante del 3. En el 4, pasa detrás, lo que le permite
+volver delante del 5 y pasar detrás para unirse al 1 por lo que se llama el 6.
+
+Ya está bien. He hablado una hora. Les agradezco vuestra atencíón.
+
+La banda envolvente tiene pues dos bordes, dos bordes en la banda de tres, la banda de
+Moebius de tres. Lo que se ve fácilmente en la banda que hago circular en este momento. 
+
+Es un punto importante. Pueden controlarlo sobre lo que hago —circular en este instante.
+
+Hay algo en común entre todas las bandas de Moebius, no sería más que esa alternancia.
+¿Es posible —es cierto— cortar las bandas de Moebius ? No solamente se puede cortar
+cada una, sino que se puede cortar también lo que llamo el forro (la doublure).
+
+¿Qué es el forro? Puede haber un forro únicamente, pero en ese caso, es necesario cortar
+la banda de Moebius, la banda de Moebius que es en suma el alma del asunto.
+
+Hay un medio de trazar sobre un toro una banda de Moebius. He aquí de qué modo se la
+traza si se trata de una banda de tres. Para eso hay que prensar el toro y abrazar las dos
+superficies que son aquellas del toro; la cara interior desaparece, es taponada, aplastada.
+Es también fácil hacer con el toro una banda de tres; lo que quería decir, era que es
+también fácil hacer una banda de uno.
+
+Ese es el tercero, ese es el segundo. El segundo es violeta, el tercero es beige, el cuarto
+es verde y el quinto es rojo.
+
+El modo de liberar dos círculos sobre cinco está perfectamente claro. Las personas que se
+enredaron con eso han fenilo a bien una y otra decir de qué forma es posible: es posible
+de diez formas.
+
+Basta liberar, es decir cortar el 1 y el 2, el 1 y el 3, el 1 y el 4, el 1 y el S, así aparece
+evidentemente en esto que cortando el 1 y el 5 los otros tres se desencadenan, como
+resulta fácil de verlo por el hecho de que el violeta allí por ejemplo enlaza hasta reducirse a
+algo que llega ahí. Ese violeta se reduce a algo que se desliza hasta allí y que, por el
+hecho de haber desaparecido el 5, queda desanudado del verde, del beige y del violeta.
+Esto queda libre, estos tres, dado que se trata aquí de círculos, estos tres círculos están
+libres uno en relación al otro. El verde, el violeta y el beige están libres en relación al
+violeta, a saber que el verde se desanuda, el beige se desanuda también y el violeta aquí
+se desanuda igualmente.
+
+Es fácil ver qué desanudando el 2 asociado al 3, el 2 asociado al 4, el 2 asociado al 5, se
+tendrá el mismo resultado. El 3 asociado al 4 y el 3 asociado al S tendrá el mismo
+resultado, el 4 asociado al S tendrá también el mismo resultado. Hay pues diez formas de
+secciónar uno de esos círculos que son cinco, de secciónarlos de modo tal que el
+resultado sea predecible.
+
+12 de Diciembre de 1978
+
+Me he aventurado a anunciar que tal vez tomaría un ejemplo de lo que se llama el
+"borromeano generalizado", a saber que enunciaría de qué modo se puede volver
+borromeano, quiero decir a partir de qué momento se confiesan borromeanos un número
+de cinco círculos. dado que en el borromeano es de círculos que se trata. El borromeano
+generalizado, lo había anunciado para dos círculos sacados sobre cinco. La solución me
+ha sido entregada en mano por dos personas, a saber Mme. Parizot de la cual espero esté
+aquí presente, y un llamado Vappereau que ha tenido a bien también contribuir a esa
+solución.
+
+No hay nada más fácil que volver borromeano, es decir desencadenar, es decir liberar
+cinco círculos. He aquí uno, he aquí dos, he aquí el tercero, aquí el cuarto y aquí el quinto,
+
+He llevado más lejos mi investigación, a saber que he examinado un grupo de seis
+círculos, he interrogado sobre la forma en la cual se obtiene un borromeano generalizado
+cortando tres de ellos. Hay efectivamente treinta y cinco formas de hacerlo. Para eso,
+habría que, del mismo modo en que hemos hacho esos cinco círculos, producir un sexto.
+De aquella forma los dispenso, pues además sería un poco forzado, Pero es posible
+construirlo.
+
+Entre las treinta y cinco formas de cortar los tres círculos obteniendo ese nudo que llamo
+borromeano, dado que está simbolizado a partir de tres, es decir que los tres quedan
+desanudados cuando se retira uno ... basta cortar uno para que los otros tres queden
+desanudados, En el borromeano de seis, basta igualmente cortar uno para que los seis
+queden desanudados. Preciso que hay diez formas de desanudar cinco círculos y que hay
+treinta y cinco formas de desanudar seis círculos cortando tres de ellos.
+
+Tal vez voy a distribuir lo que ha sido obtenido esta mañana por Soury que ha tenido a
+bien encargarse de fotocopiarlo de una foto en colar, es decir que los colores no aparecen,
+pero que al cortar tres de esos círculos, se puede percibir claramente que los otros tres
+quedan libres. Eso demanda un cierto cuidado al colorear cada uno de esos círculos, Pero
+se puede ver que eso marcha. Esto supone que se retiren en principio dos y en seguida un
+tercero. Es en el tercero que cada uno de esos círculos se verifican estar libres.
+
+Distribuido en el Seminario del día 12-XII-1978. Diseño de Soury,
+
+(Cadena de seis círculos, tal que cada vez que se quitan tres círculos -hay veinte formas
+de hacerlo- entonces los tres círculos restantes no quedan encadenados. Eso implica que
+cada vez que se levantan dos círculos -hay quince formas de hacerlo- entonces los cuatro
+círculos restantes que dan encadenados borromeanamente.)
+
+¿Es usted Vappereau...? Lo escucho.
+
+VAPPEREAU:— Usted comete un error en el modo de contar las diferentes maneras de
+desanudar a cadena de seis cortando de ella tres. Ha dado el resultado para la cadena de
+siete cortando cuatro, es decir treinta y cinco... 
+
+LACAN:— He dicho que cortando tres sobre los seis, se obtiene una cadena borromeana...
+
+VAPPEREAU:— Usted dice que hay treinta y cinco formas de hacerlo, pero no hay más
+que veinte
+
+LACAN:— Sí, es verdad que no hay más que veinte. Es verdad que no hay más que veinte
+
+y que, debido a eso, me he equivocado. Y bien, le queda excusarme y prometerle que, la
+próxima vez, no lo entretendré con estos círculos.
+
+Bien, hasta luego.
+
+19 de Diciembre de 1978
+
+Les advierto de inmediato que no haré mi seminario. Les advierto eso dado que en mi
+casa, esta mañana, hubo un corte de electricidad. Las luces, como se dice, es decir la luz
+eléctrica, no se encendían. Naturalmente Gloria aquí presente me ayudó, ella me trajo
+velas, lo que se llama en nuestros días bujías. ¿Qué es lo que Gloria tiene que ver con mi
+enseñanza, es decir lo que enseño ente año de la topología y del tiempo? Ella me ayuda,
+ella me ayuda a cortar los hilos cuando tengo que hacer anillos de hilo. Los anillos de hilo,
+eso es teórico, ello tiene que ver con los círculos, círculos flexibles e incluso elásticos, eso
+puede ser imaginado. Pero la imaginación no llega lejos.
+
+La topología es imaginario. Ella no tomó su desarrollo más que de la imaginación. Hay una
+distinción que debe hacerse entre lo imaginario y lo que llamo lo Simbólico. Lo Simbólico,
+es la palabra; lo Imaginario es distinto de aquel.
+
+Hay superficies que —llegado el caso— no tienen borde. Un toro por ejemplo, es una
+superficie sin borde. Sin embargo un toro puede ser aplastado, y si se lo aplasta forma una
+superficie con bordes.
+
+Es incluso por eso que el toro puede servir para hacer una banda de Moebius. He aquí
+como se la diseña. Eso forma una banda de Moebius, con la condición de aplastarla. Pero
+se puede inflar esa superficie, caso en el cual eso se vuelve un toro.
+
+No queda menos por eso que el toro y la banda de Moebius, son distintos. Lo que...
+
+(Ultimos minutos del seminario inaudibles por ausencia de sonido)
+
+9 de Enero de 1979
+
+No hay relación sexual, es lo que he enunciado, ¿Qué es reemplazado allí?, dado que
+está claro que la gente, lo que se llama tal, es decir los seres humanos, la gente hace el
+amor. Hay para eso una explicación: la posibilidad —notemos que lo posible, es lo que
+hemos definido como lo que cesa de escribirse— la posibilidad de un tercer sexo. ¿Por
+qué es que hay dos por otra parte? Eso se explica mal. Es lo que es evocado en la doble
+de Eva, a saber Lilith. La evocación no es sin embargo una cosa precisa. Es justamente la
+precisión, es decir lo Real, lo que he tenido en cuenta soñando en suma con lo que es del
+nudo borromeano.
+
+El nudo borromeano tiene como consistencia el imaginarse. ¿Cual es la diferencia entre lo
+Imaginario y lo que se llama el Simbolismo (sic), dicho de otro modo el lenguaje. El
+lenguaje tiene sus leyes de las cuales la universalidad es el modelo, la particularidad no lo
+es menos. Lo que lo Imaginario hace, imagina lo Real: es una reflexión. Una reflexión tiene
+que ver con el espejo, es pues en el espejo que se ejerce una función. El espejo es el más
+simple de los aparatos. Es una función de alguna manera totalmente natural.
+
+Es curioso que haya elegido el nudo borromeano para hacer algo. Pero el nado
+borromeano tiene por propiedad que se puede comenzar por no importa cual. Muy por el
+contrario, éste (1): no se puede comenzar por no importa cual. Si se comienza por allí (el
+verde), hay un obstáculo. Eso forma trenza como lo demuestra el dibujo que está a la
+izquierda (3), pero si se saca ese hacia la derecha, son los otros dos quienes son
+
+arrastrados, y no se sabe lo que es posible que resulte de ese arrastre. En todo caso, son
+los otros dos.
+
+Es el mismo caso para éste (2) y es seguramente por lo que aquello que está allí no puede
+servir para simbolizar lo Imaginario, lo Simbólico y lo Real. Pues lo que se simboliza en lo
+Imaginario, lo Simbólico y lo Real, es el interior del circulo (5), es el campo interior del
+círculo, el campo c—a—m—p—o. De suerte que esto de lo cual se trata, es de una
+metáfora.
+
+La metáfora del nudo borromeano en el estado más simple es impropia. Es un abuso de
+metáfora, porque en realidad no hay cosa que sopor te lo Imaginario, lo Simbólico y lo
+Real. Que no haya relación sexual es lo esencial de lo que enuncio. Que no haya relación
+sexual dado que hay un Imaginario, un Simbólico y un Real, es lo que no he osado decir.
+Al menos lo he dicho.
+
+Es bien evidente que he tenido la culpa, pero me he dejado deslizar... me he dejado
+deslizar ahí muy simplemente. Es fastidioso, es incluso más que enojoso. Es tanto más
+enojoso cuanto que es injustificado. Es lo que me parece hoy, es al mismo tiempo lo que
+les confieso.
+
+¡Bien!
+
+Sería mucho más difícil instalar una metáfora en aquel dibujo (1) que en éste (5), con
+mucha más razón en el tercer dibujo (2). Pues el tercer dibujo (2) tiene un aire más
+complicado, pero es lo mismo. Es lo mismo, estando dado que el rojo tiene allí una
+inflexión que podría permitir regularizar, hacer entrar el dibujo de la izquierda (1) en el
+dibujo de la derecha (2). La diferencia es que éste (2) paga con aquel (3) y es te (1) se
+trenza con aquel (4).
+
+Ustedes ven aquí que hay dos que atraviesan por arriba y dos que atraviesan por debajo.
+
+.............................................................................................................................
+
+Sería necesario redoblar esa secuencia, es decir aquí (abajo del esquema de la trenza)
+......................................................................................................... 
+
+Se puede ver aquí en nuestro dibujo dos veces reproducido que hay una trama, una trama
+que con cierne .....................................................................................
+
+Bueno, es enojoso que me embrolle, pero debo decir, debo confesar que me embrollo.
+
+Bien. Eso será bastante por hoy.
+
+16 de Enero de 1979
+
+Estoy antes que nada fastidiado por lo que les he anunciado la última vez, a saber que
+es necesario un tercer sexo. El tercer sexo no puede subsistir en presencia de otros dos.
+Hay una activación (forçage) que se llama la iniciación. El psicoanálisis es una
+anti-iniciación. La iniciación, es eso por lo que uno se eleva (on s'élève(1)), si puedo decir,
+al Falo. No es tan cómodo saber lo que es iniciación o no. Pero en fin, la orientación
+general es que al Falo, se lo integra. Es necesario que en ausencia de iniciación, se sea
+hombre o se sea mujer.
+
+Bueno, voy a hablarles de algo que es una trenza de cinco.
+
+Entonces hoy reservaría esta cuestión y espero aportarles algo la próxima vez. Pues es un
+hecho que el borromeano generalizado tiene una diferencia de dos y que sería necesario
+seguramente que el borromeano generalizado proceda de otra manera. 
+
+Quisiera hoy diseñarles otra cosa, a saber lo que se llama una banda de Slade. Cosa
+curiosa, es la misma banda que esto, lo que se ve doblando en principio esto, lo que
+simultáneamente permite doblar esto. Si doblan eso, eso les permite doblar esto y aquello
+conduce al mismo tiempo a volver idéntico 'eso a esto; en otros términos, doblando eso, es
+decir esto, aquello les permite a esto doblarlo de una forma tal que es igual a esto, es decir
+a los seis cruzamientos de esa figura, mientras que esta tiene ocho. Tal vez eso me
+ayudará a resolver la cuestión del borromeano generalizado.
+
+20 de Febrero de 1979
+
+Estoy fastidiado a causa del borromeano generalizado. No pare do creer que los
+generalizados, sea 4 menos 2, 5 menos 3, 6 menos 4, 7 menos S, 8 menos 6, no puedo
+creerlo dado que en todos esos casos hay dos de diferencia; y que de tomarlos dos a dos
+eso sea neutro, como que tomarlos tres a tres sea borromeano. Tengo el sentimiento de
+que sería necesario que la generalización del borromeano se extienda a cuatro e incluso
+—¿por qué no?— a cinco. De suerte que sería necesario que no se trate va de que ha ya
+dos de diferencia. La cuestión es saber si todo es neutro ante cuatro, e incluso cinco.
+
+Cuando menos quiero decir algo, es que a propósito del nudo borromeano, el interés que
+Lacan ha suscitado en mí con todo eso, lo veo en dos niveles: en principio nos hace una
+demostración que duró, que dura, que es una verdadera demostración, es decir que se
+agarra con lo Real, se enmaraña, él nos lo muestra, diría incluso que pone ahí una cierta
+complacencia y pienso que es una lección, en fin para mí es una. El segundo nivel, ello me
+interesa dado que, como lo decía, me ayuda para trabajar en el psicoanálisis.
+
+Entonces, para volver a nuestros borregos diría, es decir una historia de morueco, es decir
+el cuerpo primordial que Se incorpora, como cada uno sabe, del cual el origen es tal vez
+mítico, en fin, yo lo pondría antes bien del lado del R, lo Real.
+
+Y luego hay en segundo lugar, el "tu debes una vida a tu padre", por poco el S. Bueno,
+seguramente me he equivocado en el primero, es lo Imaginario lo que quería decir, el
+morueco, el cuerpo imaginario. Y de inmediato lo Simbólico del lado de Jehová: "tu debes
+una muerte a Dios". ¿ Cual Dios ? Poco Importa¡ La cuestión de Dios se plantea para
+todos, como cada uno sabe, incluso a los ateos.
+
+Bueno, entonces a mí eso me sirve, el nudo borromeano, Debo decir que cuando Lacan
+nos ha dicho, hace dos o tres clases, que tal vez esa metáfora no conviene, pero
+verdaderamente eso me ha transtornado. Entonces, helo aquí, me he dicho: eso no
+conviene, eso quiere decir ¿qué? En fin, él ha dicho algo —no encontré mis notas, las he
+prestado a alguien, no pude volver a ver con exactitud— pero era algo, en fin había un
+adjetivo con "able" del género "no es conveniente" (convenable), tal vez era otro... digamos
+"injustificable" (injustifiable).
+
+Entonces es injustificable me he dicho: ¿por qué es injustificable?. Injustificable, eso quiere
+decir que nuestra demostración no conviene del todo, nuestro modelo que hemos
+adelantado —digo nuestro porque se asiste a su seminario y luego de algunos años
+pienso que se asiste a su seminario, es por eso que me permito hablar— bueno, entonces
+es injustificable porque ese modelo no conviene, uno se ha equivoca do en alguna parte
+como se sabe bien que ocurre, debe reveerse, retornar un poco atrás o bien entonces eso
+verdaderamente no puede convenir, ese modelo no puede convenir, entonces helo aquí,
+mi pregunta llega allí —para mí es una cuestión muy importante.
+
+El ha dicho: esa metáfora es, digamos, injustificable. Entonces ¿es que se puede decir que
+una metáfora está liquidada debido a que ella no es muy,,, justa ? Yo, pienso que no, una
+metáfora jamás es totalmente justa sino no seria una metáfora, Solamente que no se
+puede hablar si no se utilizan metáforas y en ese sentido el nudo borromeano, eso me es
+útil como metáfora.
+
+Entonces lo entiendo un poco del lado de la metáfora paterna, pero tal vez sea que
+comprendo mal a Lacan. La cuestión que querría plantear es ésta: ¿es que simplemente
+es un problema de matemáticas ? —caso en el cual estoy tranquila, en fin eso no me
+interesa, no especialmente, no verdaderamente.
+
+Pero si el R.S.I , ese arreglo particular de esas tres categorías, ligadas como ellas lo están,
+con ese agujero en el medio, era la metáfora paterna o bien añadiendo tal vez a eso un
+cuarto anillo, así ha sido evocado, tal vez Freud había jugado con el padre así, con el otro
+
+Haga la pregunta.
+
+Mme. MOUCHONNANT:— Discúlpeme señor, el plantearle una pregunta en mi estilo, es
+decir bastante ingenua; pienso que no soy aquí la única por otra parte, pero.., usted
+conteste si piensa que ello vale la pena, es una cuestión que, para mí vale.
+
+Se está con seis y ocho, ahora bien estoy completamente desubicada. Hasta tres eso va;
+Me planteo la cuestión, a decir verdad, después de lo que usted adelantó, no hace mucho
+tiempo, hace casi dos seminarios, que ¿tal vez la metáfora del nudo borromeano, es decir
+los tres —yo, me detengo allí por el momento— no conviene para rendir cuentas del R.S.I.
+Entonces, no sé lo que ocurrirá con nuestros camaradas a ese respecto, eso me ha
+llegado macho, me ha parecido extremadamente importante, pienso que incluso se podría
+decir que hay quien no pueda dormir más, lo que no sería tan malo tal vez.
+
+Entonces he aquí un poco mis reflexiones: el nudo borromeano, como todo lo que conduce
+Lacan, es necesario —en todo caso para mí es así— me es necesario algunos años para
+comprender, entender... bueno ¡ He llegado a entender un poco lo que es el nudo
+borromeano y en todo caso, yo, eso me sirve en el análisis. Es un medio. Mi truco, no son
+las matemáticas, no me aferro a eso como a mi primer camisa, diría incluso más; Pero es
+un medio para un fin, es decir que eso me permite desenredarme mejor con lo que es el
+psicoanálisis.
+
+Entonces el interés del nudo borromeano, es que es un modo de escribir el R.S.I. En
+resumen —bueno, lo recuerdo hay tres círculos que se ligan; en medio hay un agujero: es
+el pequeño "a". Y ellos se ligan de un cierto modo, eso es muy importante. Bueno, creo
+que después del tiempo que se nos lo machaca, eso, hasta allí, está hecho el trabajo de
+asir...
+
+anillo allí.
+
+Bueno, y bien, si eso no conviene, eso nos arrastra lejos, creo que es una cuestión muy
+importante. En fin la cuestión.., pero creo que no está muy claro lo que digo, lo digo como
+puedo, la cuestión que planteo a Lacan es: ¿esta más en este momento, todos nosotros,
+enredados con los nudos que están allí delante, con dificultades propiamente
+matemáticas? ¿Pero eso no tiene incidencias ? dado que a pesar de todo él nos habla en
+el psicoanálisis allí, para el psicoanálisis.
+
+¿Es que eso no nos vuelve a interrogar en nuestras categorías psicoanalíticas? ¿Es que
+no hay allí algo al nivel de los nombres del padre que habría que reajustar ? Uno se habría
+equivocado: o nuestro modelo no conviene o es necesario volver a pensar algo al nivel de
+la metáfora paterna, Siendo la tercera solución entonces —lo que no está del todo
+excluido— , que evidentemente no he comprendado, es seguro.
+
+LACAN: Lo que me inquieta en el nudo borromeano, es una cuestión matemático y es
+matemáticamente que entiendo tratarla.
+
+X....:— Doctor, permítame rectificar vuestro tercer esquema, En el cuadro de la banda de
+Slade, si se da 1-2-3 en el punto de partida, aquello concluye debajo en 1-2-3; pero en el
+cuadro del tercer esquema, si es 1-2-3 en el punto de partida, es 2-1-3 en el final.
+
+LACAN:— Es totalmente verdadero.
+
+Es totalmente verdadero, pero estoy embrollado. Bien, les digo hasta luego. Intentaré
+hacerlo mejor la próxima vez. 
+
+13 de Marzo  de 1979
+
+Hay algo que les he dicho: ¿por qué no habría un tercer sexo?
+
+Todo eso viene de que he estudiado el borromeano generalizado. El borromeano
+generalizado, cae de su peso que no comprendo nada de eso, me embrollo, me embrollo,
+de lo cual les testimonia el hacho de que, escribiendo en el pizarrón, me he -es el caso de
+decirlo- embrollado absolutamente.
+
+Quisiera hoy hacerles sentir que el borromeano generalizado, no es un pequeño asunto.
+
+Me embrollo y debido a eso los despido.
+
+20 de Marzo  de 1979
+
+Hay alguien que me ha escrito para decirme que había pensado en mi último
+seminario. Y bien, lo que yo había hecho era eso (I): es un borromeano generalizado, en
+tanto que la persona que me ha escrito lo ha re ducido a lo que es normal, a saber que
+esto ha sido descubierto poniendo en continuidad aquellos dos, verde y negro.
+
+LACAN:— ¿Usted cree que modificando esto, ella no se desanuda ? ¿Entonces es
+necesario modificar esos tres puntos allí?
+
+X.... (inaudible)
+
+LACAN:— Bien, hasta luego.
+
+El verde y el negro son aquellos.
+
+Otra forma de resolverlo, sería poner en continuidad lo que he dibujado en principio en
+amarillo (naranja) y lo que he dibujado en rojo (II), o bien aún, poniendo en continuidad lo
+que he dibujado allí en rojo con lo que he dibujado en negro.
+
+La cuestión es saber lo que es homotópico; lo que es homotópico está en el interior de una
+consistencia (I).
+
+He cometido la última vez, algo que era de ese orden (I), quiero decir que, en el interior de
+un mismo círculo, la homotopía consiste en poder quebrantar(transgresser) la figura.
+Resulta de ello que el nudo se deshace. Basta con atravesar la cuerda en un punto(*).
+
+Es de la misma cuerda que se trata.
+
+X ....:— Es necesario que la misma cuerda se atraviese en tres puntos,
+
+LACAN:— Sí, usted crea eso,
+
+X....:— La torsión a la derecha, perdón la torsión a la izquierda arriba, a la derecha abajo y
+a la izquierda,., Si usted no corrige más que un punto, como lo ha dicho, ella no se
+desanuda.
+
+Ese ritmo de tres tiempos, voy a intentar transmitirles la forma en la cual él me parece
+inferibie de la existencia de tres Superyó, representando cada uno sincrónicamente en la
+estructura y diacrónicamente, una etapa necesaria de franqueamiento para que advenga
+la palabra.
+
+Voy a anunciar en principio, si les parece, la bandera antes que la demostración
+propiamente dicha, y provisoriamente pues adelanto lo que voy a intentar sostener: es que
+habría un primer superyó del cual la función sería ordenar al sujeto "no dirás una palabra",
+un segundo superyó del cual la función sería enunciar "no dirás dos".,. —ustedes ven, es
+fácil— y un tercero del cual la función sería "no dirás tres".
+
+Entonces, en la medida en que en el marco de una sesión de seminario me parece arduo
+de exponer esa noción punto por punto, yo,., es necesario seguramente tomar un hilo; la
+idea que se me ocurrió para volver a entrar en esa historia es apoyarme en un pequeño
+apólogo de Freud, y ese pequeño apólogo es éste que tomó Freud en la Traumdeutung, la
+primera vez por otra parte que introduce el término "censura", que es ese ancestro del
+superyó, y en la Traumdeutung si ustedes quieren remitirse a ella, está después del
+comentario que Freud hace del "Sueño del tío José".
+
+Enonces este apólogo es el siguiente. Si quieren, ese apólogo va a permitirme intentar
+mostrarles en qué la división del sujeto es inferible de una división del superyó. En este
+apólogo, Freud compara el superyó, el censor, con un soberano que reinaría sobre
+sujetos, y sujetos que estarían en posición de rebelarse, de sublevarse contra un ministro
+devuelto impopular, causa de revuelta,
+
+Lo que señala Freud de inmediato, es que los sujetos tienen a su disposición su revuelta y
+tienen un saber elemental; el rey, el censor, está en una posición de un saber de otra
+estructura, dado que la posición del rey es la siguiente: es que él sabe que debe contar
+con la opinión pública, pero sabe que debe hacer como si esa opinión pública no contara
+para él, es decir que, si quieren esquemáticamente, la revuelta estalla con los gritos "Abajo
+el ministro..".
+
+Lo que dice Freud en un primer momento, él dice, y bien, helo aquí; el censor para
+apaciguar la revuelta, funciona como alguien que no consideraría que esos sujetos estén
+representados como sujetos por ese significante: "Abajo el ministro..¡"; y hace pues como
+si esos sujetos hablantes no existieran como tales, sin que —no obstante—sea eso una
+provocación —eso es importante— y responde, se podría decir, con un mensaje invertido,
+siendo esa respuesta el hacho de que promueve al ministro a una distinción superior, es
+decir que responde en el límite, si ustedes quieren, con "Arriba el ministro..¡".
+
+He escrito esto allí, sobre esos gratos, ustedes ven, estoy en el punto (I): el sujeto dice una
+primer palabra, La primer palabra, estamos en la célula elemental del grato, una primer
+palabra "Abajo el ministro..;". A esa primer palabra el superyó, diría, responde —dado que
+el superyó es acomodaticio (est bon prince) se podría decir. Es acomodaticio dado que
+dice: "una palabra, pasa, por una palabra, paso, de acuerdo, pero no insistes...", es decir
+por una palabra eso va, pero no una segunda.
+
+Y la estrategia del superyó es de... es por eso que ustedes ven, el superyó, he escrito esa
+
+8 de Mayo de 1979
+
+LACAN:
+Voy a pasar la palabra a Alain Didier-Weil.
+
+A. DIDIER-WEIL: No voy a solicitarles que sean indulgentes con lo que voy a intentar de
+decirles, pero al menos sí que tengan en cuenta el que es un trabajo que ha sido
+preparado en la prisa, incluso en la precipitación, dado que el Dr. Lacan me solicitó
+hacerlos partícipes del mismo ayer. Entonces tengan en cuenta que esto no tiene
+verdaderamente la calidad de un escrito. Y voy a intentar transmitirles pues, voy a intentar
+rendirles cuenta del encuentro, diría, de dos enseñanzas, aquella que recibo de Lacan y la
+del diálogo analítico.
+
+Doble encuentro en el que me ha sido necesario muy largo tiempo reparar en qué y de qué
+modo las elucubraciones que se encontraron se impusieron a mi en el marco del diálogo
+analítico, en qué finalmente eses elucubraciones eran por una parte inscribibles sobre el
+grato cuyos re cursos, debo decirlo, no han terminado de asombrarme, y por otra parte
+inscribiéndose inscribían, como voy a intentar mostrárselos, una relación articulada entre la
+topología y el tiempo, es decir volvían a encontrar finalmente el tema del seminario de este
+año.
+
+En la ocasión, esa articulación entre topología y tiempo que he sometido al Dr. Lacan, se
+soporta en una localización —de la cual voy a intentar rendirles cuenta ahora— de una
+dialéctica de la palabra del sujeto hablante en tanto que habitado, diría, por un cierto ritmo
+temporal, ritmo de tres tiempos como el vals, que exigiría finalmente que el sujeto tenga
+que contar hasta tres para decir una palabra.
+
+respuesta del superyó utilizando la inversión del estado inferior yoico, es decir lo que
+introduce el campo de la denegación, en la medida en que la censura está aliada con el
+yo(moi) en ese nivel. Y el mensaje invertido que consiste en escribir aquí "Arriba el
+ministro..;", elevo al ministro, y bien, tiene por efecto —señala Freud— suspender el
+mensaje del sujeto cuando decía "Abajo él ministro¡" del efecto de esa respuesta del
+superyó; el mensaje va a ser interrumpido y el sujeto va a cerrar el pico.
+
+Debo decirles que Freud no llega más lejos que ese pequeño apólogo, pero tiene el mérito
+al menos de mostrar que esa estrategia, si lo escribe así, es que ella se revela operante,
+como la experiencia lo enseña. Y ¿en qué es operante, en qué esa respuesta de la
+censura tiene el poder de interrumpir el mensaje del sujeto ?.
+
+Una serie de puntos. Si quieren, clínicamente pueden reparar en que la comminación de la
+censura tiene esto de particular' eso puede evocarles que en su conminación el mandato
+superyóico tiene esto de partí calar: oponerse al comandante que seria un comandante
+con galones, es que el mandato superyóico no representa al sujeto para otro significante,
+en oposición al comandante de división que, si da una orden, por mis feroz que fuese y
+aunque quisiera aproximarse a la orden superyóica, no lo con sigue.
+
+Si se suscriben a la orden del comandante de división, diría que es no en tanto que están
+desubjetivizados, es por ejemplo para no tener problemas, para obtener vuestro permiso;
+pero si obedecen a la conminación superyóica, es que están en esa posición que me decía
+de un modo muy pertinente un analizante: ¿qué es lo que hace que ante algunos que
+encuentro, que me dicen una palabra, por tonta que sea eventualmente, estoy en la
+imposibilidad radical de contradecir, es imposible decir no ?
+
+Bueno. Dicho esto, lo que es necesario —eso es el primer punto— lo que es necesario
+comprender es que como se los decía, dado que, lo ven, en el fondo la censura ha dejado
+pasar una primer palabra, Lo importante es comprender que: por una vez eso pasa, pero
+no insista. No insista quiere decir: no exagere con eso, y sienten allí que ese "no insista" es
+la raíz misma de esa dimensión que coge al sujeto, que es aquella de la angustia del
+ridículo,
+
+Observen en torno suyo, escuchen, obsérvense ustedes mismos: generalmente la
+angustia del ridículo, la angustia de parecer bolado, de parecer idiota, incluso de parecer
+feo, no es otra cosa finalmente que la obediencia a esa idea: "¡No insistes, cállate, serías
+ridículo..!".
+
+Y efectivamente el sujeto, en ese momento, se desdice y cuando se desdice de ese modo,
+cuando se retracta, está en la posición de culpabilidad más intensa, y tiene razón para
+estarlo dado que la culpabilidad es eso: es ceder a la responsabilidad, es decir a la aptitud
+de responder. 
+
+Otro punto si quieren: a la censura que ha dejado pasar una palabra, pero que no quiere
+que una segunda palabra sea dicha, es decir que no quiere que ese primer dicho sea
+sostenido por un segundo dicho, en el fondo es todo lo que la enseñanza del sueño nos
+evidencia... observen por ejemplo ese ejemplo que ha sido comentado por Lacan en "Las
+formaciones del inconsciente", ese sueño que conocen pienso: una analizante sueña con
+
+la palabra "canal", retomo no el sueño en detalle, sino la significación; al final de la
+interpretación del sueño, revela que la palabra "canal", ella quiere decir con eso a Freud:
+"sus teorías me hacen desternillar de risa, no son serias".
+
+La censura deja pasar la palabra "canal", Lo que ella no deja pasar, es que el sujeto
+diciendo "canal" reconozca que si se sostuviera en esa palabra, es decir que si se viera
+desde donde hablaba, eso lo pondría en posición de decir a Freud: "sus teorías me
+divierten, no son serias". Y eventualmente se podría pensar que si ella hubiera dicho a
+Freud en el marco de una sesión "sus teorías, de lo sublime a lo ridículo, no hay más que
+un paso", si ella se lo hubiera dicho, habría hacho la economía de ese sueño.
+
+Pues la censura como lo ven, no queriendo que la primer palabra sea confirmada por una
+segunda palabra, eso a lo que la censura pone obstáculo, es que el sujeto encuentre en él
+el punto te más allá desde donde puede sostener el primer dicho que adelantó.
+
+Otro punto decisivo que quiero subrayar antes de ir más lejos, es que el sujeto habiendo
+dicho una palabra, no pone en duda que es un sujeto hablante. La censura va a tener otra
+estrategia: cómo aquel no tiene dudes, ella va a tomar, diría, el sesgo de volver al sujeto
+dudoso; dudoso, es decir que el sujeto es puesto en posición, de insistir, de ser
+confrontado, diría, con otro que está en posición de sospecharlo. 
+
+¿Cual es la diferencia entre —si ustedes quieren— un sujeto "sospechado" o un sujeto
+''supuesto" ? Y bien, diría que un sujeto supuesto es un sujeto que es eventualmente
+supuesto poder sorprenderles; un sujeto sospechado, al contrario, es un sujeto del cual
+fundamentalmente nada sabría sorprender viniendo de él, dado que se tiene respecto del
+sujeto sospechado una prevención, una presunción más exacta mente, una presunción y
+que nada de él sabría sorprender: por más que diga, eso será integrado en alguna parte y
+no tendrá nada de sorprendente.
+
+Si ustedes quieren, verán en eso que estamos muy próximos, este censor, está muy
+próximo del "no-incauto" del cual nos habló Lacan en su tiempo, está muy próximo porque
+está en la posición: "No me tendrás, no me la haces, por más que digas sé donde situar lo
+que tienes que decir, y en esa posición de desconfianza, de sospecha, te vigilo, no seré
+sorprendido".
+
+Lo verán, desemboco allí sobre un punto totalmente fundamental, es que una de las
+funciones decisivas de la censura —es un punto que en mi opinión no ha sido bastante
+retenido— es precisamente —al considerar a ese prevenido que es el sujeto para ella—
+prevenir toda posible sorpresa viniendo de él y en particular —eso está textual en Freud
+dice Freud, que una de las funciones de la censura es despojar de su intensidad lo que
+llama el significante de alto valor psíquico, y ese significante de alto valor psíquico en torno
+del cual voy a centrar este trabajo es — se los señalo de pasada— el significante que es la
+causa del sueño.
+
+Es este significante que el sujeto ha encontrado durante la jornada y con el cual habiendo
+sido confrontado quedó sin chistar, boquiabierta, insolvente y con el espíritu de escalera
+que carácteriza a ese sujeto que se retira y no ha podido responder, le es necesario el
+tiempo de incubación del día y no llega a responder más que por la noche con la ayuda de
+
+un sueño, con ese significante que —diría momentáneamente— lo ha desconcertado
+antes de poder ver más de cerca de qué se trata.
+
+va lugar de ser, y creo que se puede adelantar allí qué el censor está objetivamente
+anonadado (sidéré).
+
+El problema de la censura, es que su función es sobre todo prevenir al sujeto contra el
+hecho de que pueda acceder a ese estado de fading, de anonadamiento (sidération) por
+ese significante de alto valor psíquico, que es pues despojado de su eficacia.
+
+Todavía una palabra de este censor; pueden imaginar, o de este "no-incauto", lo es en la
+medida en que el hecho de no poder ser sorprendido necesita en él el desarrollo —creo
+que es posible decirlo— de una inteligencia importante dado que tendrá respuesta para
+todo, nada sabría sorprenderlo.
+
+Ahora voy a permitirme continuar ese apólogo que Freud había comenzado, y a hacer un
+poco de ficción. Se está allí (II): no insista. Efectivamente el sujeto desistió, no ha insistido
+bajo el efecto de lo que acabo intentar decir. Ahora si ustedes quieren, nada nos impide
+imaginarlo: ¿cuales son las condiciones que permitirían a la primer palabra dicha por el
+sujeto, es decir "Abajo el ministro..;", cuales serían las condiciones que harían que ese
+"Abajo el ministro .;" vuelva, es decir sea retomado ?
+
+Entonces allí se podría, pero paso algunas coses, pero se podría detallando las coses
+mostrar por cara] proceso el sujeto accedería al saber o a la engañifa que es aquella del
+censor. Pero digamos por el momento, si les parece retengamos esta idea, es que en un
+momento dado, luego de un tiempo digamos, de borramiento (effacement) del sujeto, de
+silencio, se produce una segunda palabra por la cual el sujeto retama su revuelta, es decir
+"Abajo el ministro...¡", pero ven, esa segunda palabra no se escribe sobre el grato de la
+misma forma, es decir en el mismo lugar, es decir que eso puede ser la misma palabra,
+pero no es la misma palabra porque está situada topológicamente te un modo totalmente
+diferente,
+
+Entonces ¿cual es el impacto de esa segunda palabra, de esa reanudación de la revuelta,
+cual es su impacto ? ¿Qué es lo que ocurre cuando se sitúa en ese piso superior del grato,
+es decir cuando retama el hacho de que se haya desdicho y que no se desdice en un
+primer tiempo ? Es el comienzo de la perseveración.
+
+Si ustedes quieren, diría que hay dos elementos que concurren a la producción de esa
+segunda palabra, diría en principio: hay la reanudación de la insistencia de repetición, es
+decir de la producción de ese más allá desde donde el sujeto puede responder de su
+primer dicho; y luego hay de inmediato el hecho dé que esa relación de orden imaginario
+con el censor, que toma como punto de apoyo el odio del perseguidor y que representa un
+punto de apoyo para el sujeto, si quieren, en esa relación especular del "No me tendrás,
+no me harás callar, soy yo quien tendrá la última palabra", hay esa dimensión en esta
+reanudación igualmente,
+
+Ahora, una vez que la palabra ha sido dicha, ocurre algo totalmente importante que es la
+cosa siguiente: una vez que la palabra una segunda vez ha sido dicha: "!Abajo el
+ministro...¡", lo que ocurre, es que el censor que decía "No lo dirás dos veces", el censor
+está en posición, iba a decir, de ser censurado, pero en todo caso, el censor, se pasa a
+otra, es decir que el censor ante esa posición, su vocación de censor, su función no tiene
+
+Que el censor esté anonadado objetivamente, si ustedes quieren, se traduce por el hacho
+de que el sujeto está entonces deshabitado por la censura que lo deshabita literalmente, y
+ese vacío que se hace en él por el hecho de que la censura lo deshabita, es el sujeto que
+recibe de ella el contra-golpe (contre-coup), el contragolpe debido a que aquella está
+anonadada. 
+
+Tomemos un ejemplo si quieren, un ejemplo muy tonto; por ejemplo en las etapas de la
+revolución francesa, cuando luego de los primeros amotinamientos, una mañana el pueblo
+de París se enteró que su décimo-sexto censor había huido a Varennes, había abdicado,
+estaba anonadado Michelet cuenta en las Memorias que durante algunas horas de aquella
+mañana, el pueblo de París estaba literalmente como anonadado, es decir sin voz, debido
+a que bruscamente la consistencia del otro que estaba allí para sostener una relación
+persecutoria, de censor desapareciente (disparaissant), el sujeto del golpe es el que
+recibía el contragolpe, y el contragolpe que llamo del anonadamiento. Me explicaré luego
+sobre esta palabra adelantada.
+
+Lo que va a producirse, es que en el vacío que se produce por el anonadamiento de la
+censura, en ese vacío, en ese momento, en ese vacío va a dejar el campo al surgimiento
+efectivamente de algo nuevo, radicalmente sorprendente y asombroso que es, como se los
+he escrito sobre el grato, la voz que Lacan ha llamado en alguna parte "mugiente"
+(magissante) del "Che vuoi?", es decir que la censura está anonadada.
+
+El contragolpe de ese anonadamiento forma lo que llamo, en el modo en el cual presento
+las cosas esta mañana, el tercer Superyó va a hacerse oír, es decir que en ese vacío
+constituido en ese momento, el sujeto oye este "Che vuoi?" y lo que aparece como
+totalmente nuevo, es que este "Che vuoi?" ya no tiene más la consistencia de un censor
+persecutorio, este "Che vuoi?" no es alguien que responde, que da respuestas como un
+censor, dado que la respuesta enigmática, radicalmente enigmática y sorprendente —pero
+cuando digo sorprendente (étonnante) es en el sentido fuerte, es necesario escuchar ahí la
+palabra trueno(tonnerre)— es que este "Che vuoi?" da una respuesta que es una
+pregunta: "Che vuoi?" .
+
+Entonces ven que él surgimiento de este "Che vuoi?" del cual el origen es el significante
+del Otro, que está en relación con el significante del Nombre del Padre —pero intentaría tal
+vez sostenerlo mejor dentro de un momento— del cual diría que en ese momento todo
+ocurre como si ese significante del Nombre del Padre cayera (chutait) en lo Real, que él
+tendría ese efecto... funciona en ese momento, ese "Che vuoi?", como ese significante de
+alto valor psíquico que Freud pone en la raíz de la causa del sueño, y este "Che vuoi?"
+pone al sujeto en ese momento en posición de sostener su deseo con otras coordenadas
+que aquellas por las cuales lo sostenía cuando por ejemplo había retomado su re vuelta
+aquí (III), sino como punto de apoyo, un perseguidor que, si era inconsciente, estaba
+cuando menos articulado a la estructura del yo (moi), dado que la censura y el Yo trabajan
+en colaboración.
+
+Pues lo que se puede decir, lo que diría, si ustedes quieren, del surgimiento del "Che
+
+vuoi?", es que la cuestión que es reenviada al sujeto es : "Bueno, acuso recibo del hacho
+de que has insistido y ahora, ¿qué es lo que vas a hacer..?", "es decir que esta insistencia
+vas a poder sostenerla por una tercer palabra..?, les que una tercer palabra va a permitirte
+encontrar las coordenadas para articular una tercer palabra, un tercer significante, que
+hará que a esta insistencia, la trasmutes en perseverancia..?"
+
+Perseverancia, entiendan allí la "Perseverare diabolicum" que Freud había señalado de un
+modo absoluto en su compulsión de repetición que había calificado de demoníaca. Ven
+que es todo lo contrario del censor que, él, estaría en posición de decir "Por una vez, paso,
+'errare humanum est"', el error no es grave, una palabra,; allí donde eso deviene grave es
+si la insistencia se trasmuta en perseverancia.
+
+Ahora algunas palabras si quieren sobre el efecto de ese signicante anonadante que es el
+"Che vuoi?". Es localizable, ese significante anonadante, en numerosos escritos de Freud,
+es localizable en la Traumdeutung pues, pero sin que Freud haya creado un lazo entre sus
+diferentes manifestaciones. En la Traumdeutung lo sitúa detrás del sueño, en particular el
+dé la "monografía botánica", lo sitúa como ese significante de alta intensidad psíquica
+causa del sueño.
+
+Es situado igualmente desde el comienzo en el primer capítulo de la "Psicopatología de la
+Vida Cotidiana", el primer ejemplo, el ejemplo de "Signorelli" que está fundado sobre la
+represión (refoulement) del significante "Herr" —señor—, ese significante "Herr" se puede
+decir, encarna en tanto significante del padre muerto, encarna esta cuestión del "Che
+vuoi?" que Freud en ese ejemplo —todas las palabras lo evidencian— se empeña en no
+escuchar; pero dado que Freud es Freud ocurre que eso no cae en las mazmorras, y que
+va a rescatarlo, recuperarlo y articularlo en su propio nombre finalmente, y hace de ello un
+escrito.
+
+Es localizable igualmente, ese significante anonadante, en los chistes, cuando Freud
+señala que la dialéctica por la cual la carcajada sobreviene, él la describe luego, una
+dialéctica que llama "anonadamiento y luz"; en un primer tiempo, el oyente recibe la
+palabra, y antes de estallar de risa, antes de que la metáfora cumpla su trabajo, hay un
+tiempo de anonadamiento donde el sujeto está en suspenso.
+
+El término de Freud para calificar ese significante anonadante que —no digo que esta
+palabra "anonadante" (sidérant) es la mejor traducción, es la traducción que es propuesta
+por— Marie Bonaparte y Nathan en el "Chiste y su relación con el inconsciente", es la
+traducción del término "Verbluffong"; he aquí lo que el dicciónario... el catálogo de palabras
+que el dicciónario da sobre Verbluffung: fulminado (foudroyé), asombrado (étonné),
+anonadado (sidéré), desconcertado (interloquó), aterrado (atterré), estupefacto (stupéfié),
+aturullado (abasourdi), en fin, ven por esta constelación de significantes, hay la noción de
+una posición subjetiva por la cual el sujeto estaría atacado de imbecilidad o quedaría sin
+palabras.
+
+Y ven que tres direcciónes de este asedio se imponen finalmente para ese significante.
+Diría que una primera dirección designa la naturaleza de lo que va a manifestarse al
+"parl'être", que es el surgimiento de una manifestación inesperada de lo Real: por lo
+sidéreo (sidéral), por el trueno (tonerre), por el rayo (foudre), el sujeto se encuentra
+
+asombrado (étonné), fulminado (foudroyé), anonadado (sidéré).
+
+Una segunda dirección que reagrupa significantes que evocan la respuesta del sujeto a
+esa manifestación de lo Real por la cual el sujeto, consiste, en caer del lugar Simbólico en
+el cual se sostenía equivocadamente entre dos significantes, para caer de un modo
+unívoco como este jirón (loque) que es el objeto a en lo Real, y esos significantes nos
+dicen, que entonces el sujeto cae desde la nubes desconcertado, como un andrajo (loque).
+¿Dónde cae efectivamente? Cae allí donde se cae, en tierra: está aterrado.
+
+Y la tercera dirección que se impone de este asedio, es señalar el momento de
+inmovilidad, de imbecilidad estúpida a la cual es reducido el sujeto una vez fijado en tierra,
+dado que, si quieren, allí son los términos de estupor (stupeur), estupidez (stupidité),
+estupefacto (stupéfié) que en el antiguo francés quiere decir paralizado, quienes califican
+esta imposibilidad de desplazamiento por la cual el cuerpo, no más que las palabras, no
+pueden ser dicho, por lo que el sujeto queda interdicto.
+
+Bueno, ven que luego de este "Che vuoi?" temible, ocurre que el sujeto puede abdicar.
+Tiene todavía tiempo, es el caso de Freud cuando el "Herr" terrorífico surge en un primer
+tiempo; y luego se encuentra poder insistir y prolongar su insistencia, y al desafío del "Che
+vuoi?" no le queda más que una voz, la articula y la articula aquí (IV). Es, ustedes ven, lo
+he marcado, en ese momento que el sujeto por tercera vez dice: "¡Abajo el ministro...¡"
+
+Esa tercera vez, es siempre la misma palabra, pero espero hacerles sentir que incluso si
+es la misma palabra, no es del todo la misma palabra, es decir que está situada en otras
+coordenadas totalmente distintas de aquellas que le han hecho decir "Abajo el ministro..¡"
+nº 1, "Abajo el ministro.,;" n°2. , en esto que interviene... hay esa inversión del "Che vuoi?"
+del cual la fórmula es "¿Qué quieres.?" (Que veux-tu?) , esa inversión que parte de aquí al
+nivel de la Demanda donde el sujeto está en posición de preguntarse: "Me pregunto lo que
+quieres y. ." (Je me demande ce que tu veux et..) ...contiguo, llegando hasta el fantasma: "
+lo que es 'je' .." (ce qu'est je).
+
+Ven que a nivel del fantasma hay dos flechas divergentes y que el franqueamiento es
+posible con la producción de esta tercer palabra escrita por Lacan S (A) (SIMBOLO), y que
+la producción de ese significante, tercer palabra, tiene esto de absolutamente enigmático,
+diría que es la palabra más riesgoso que hay, dado que es una palabra que incita a algo
+radicalmente enigmático porque empeña al sujeto a no desistir va más de su insistencia,
+pero fundamentalmente a no desistir de una promesa en cuanto a su deseo , una promesa
+que tiene esto de enigmático: es que ella no es un juramento que tiene un contenido
+explícito, ella es promesa de no sabe qué, sino simplemente sostener ese deseo sin saber
+incluso lo que es. Ven que se llega pues al término de esos esquemas con la idea de que
+tres tiempos internos deben ser franqueados para que el sujeto articule la palabra que en
+la existencia empeña su ser. Tal vez sumariamente se pueda ver una metáfora de esa cifra
+3, en el hecho de que una representación espontáneamente en el teatro, por ejemplo, se
+anuncia por "toc-toc-toc" , los tres golpes, por el hecho de que también incluso sin que
+ustedes cuenten con vuestros dados, si ustedes se anuncian en la puerta de alguien,
+harán "toc-toc-toc.." sin contar, eso se hace sólo .
+
+Ahora ... ven que me he permitido calificar los superyó, he hablado del segando, del tercer
+
+superyó, me he permitido calificar el segundo superyó como fascinante, el superyó del
+"Che vuoi?" como anonadante dado que me parece que hay un cierto número de razones,
+no voy a tener el tiempo de desarrollarlos verdaderamente aquí, pero hay un cierto número
+de razones que nos autorizan a señalar que el superyó procede de la estructura de una
+mirada (regard), Por mirada no es necesario entender algo que tenga una relación
+cualquiera con el órgano de la visión.
+
+Por mirada entiendo algo tal como Lacan lo articula en el Seminario XI, en donde muestra
+que un sujeto puede estar bruscamente bajo la mirada del Otro en tanto que sorprendido
+en el bosque o al acecho; es un ruido o un crujido que se imponen a él como la dimensión
+de una presencia mirante (regardante) que no tiene nada que ver con el problema de la
+visión Nada ilustra mejor por otra parte esa encarnación de la mirada , que por ejemplo los
+filmes de Fritz Lang donde pone tan a menudo en escena a ciegas, ciegos que
+precisamente encarnan de un modo inmejorable esa presencia superyóica (surmoique) de
+la mirada.
+
+Entonces vuelvo, dado que he dicho al comienzo que pensaba que se podían aislar tres
+superyó. El primer superyó que me parece aislable, lo llamo superyó medusante
+(médusant), superyó fascinante, superyó anonadante, Superyó medusante: ven allí, lo he
+ilustrado de hecho, ese superyó medusante diría : "Ni una palabra..;" (I), y si ustedes
+quieren , pienso que se lo pueda encarnar en el modo más elemental del grato de Lacan,
+es decir que las dos líneas   y SS' no se enganchan.
+
+Este superyó medusante, me parece que se lo podrá señalar domo siendo lo que está
+activo en el universo de algunos psicóticos, es decir un universo en el cual el sujeto está
+literalmente medusado, es decir bajo la mirada de esa medusa que es su Otro; les
+recuerdo que bajo la mirada de la medusa un sujeto es petrificado, es decir que para toda
+la eternidad —ya no hay más tiempo, no hay diacronía— para toda la eternidad es
+coagulado, pierde la disposición del movimiento del lenguaje (langagier) o del movimiento
+corporal.
+
+Se puede añadir a esto que el psicótico, piensen en el pequeño Dick en el Seminario II, es
+un ser —se podría decir— invisible, el pequeño Dick se puede decir que es
+verdaderamente invisible, se considera invisible en tanto que sería mirado desde todas
+partes,
+
+Escuchen efectivamente por otra parte a ciertos esquizofrénicos que cualifican a esa
+mirada que llega de todas partes, son mirados por los animales, por todas las personas
+que cruzan en el subterráneo, por el sol, por las estrellas. Él problema es que esa mirada
+medusante, esa mirada que sería el superyó más feroz, el más arcaico que hay, qué no da
+la posibilidad de una palabra, dado que bajo la mirada del Otro dice: "Sé todo de ti, no
+tienes nada que decir, porque mi mirada funciona como ese saber absoluto", el sujeto no
+está ya en la dimensión de una suposición cualquiera en su relación al Otro,
+
+Les haría remarcar, eso vale la pena incluso de ser señalado, es que esa mirada en el
+psicótico, en oposición al superyó que en el neurótico participa, en todo caso en la
+Traumdeutung, participa del Inconsciente, la censura es inconsciente en parte, y es debido
+a eso que Freud la ha aislado muy tardíamente, Les haría remarcar que Freud en principio
+
+aisló el superyó como tal en el psicótico en "Introducción al Narcisismo", y si leen ese texto,
+verán que esa presencia superyóica que aísla en el psicótico es una presencia mirante.
+
+Está de un modo muy preciso en Freud, describe en el delirio de influencia o en esa
+instancia que es una instancia que vigila, que no cesa de observar, que no despega en
+absoluto el ojo, es una dimensión de una presencia que no aguarda una palabra del Otro,
+dado que pone al Otro, al psicótico, en posición, no de hablar, sino de mostrarse(se
+montrer), y esa es la dimensión monstruosa (monstrueuse) de la monstración (monstration)
+
+Superyó fascinante, ¿cual es la diferencia entre el superyó fascinante y el superyó
+medusante ? Diría que el superyó fascinante, está limitado en el espacio y en el tiempo, es
+decir que el sujeto puede desprenderse de esa mirada fascinante, el sujeto, no es
+imposible que la quebrante en la temporalidad. Dicho esto, en el marco espacial, en el
+espacio, en la mirada fascinante, el sujeto es mirado desde un lugar que él ve, que es
+localizable.
+
+Tomen el ejemplo del sueño de Irma que es comentado en el Seminario II, y bien, se
+puede decir que es esa mirada fascinante bajo la cual se descompone Freud cuando Irma
+boquiabierta le ofrece su garganta abierta, y se puede decir que esa boquiabierta le dice:
+"¡Mira...te miro...¡'' y bajo esa mirada que sale de esa boquiabierta, Freud durante todo un
+tiempo es el objeto de una fascinación de la cual se desprenderá —volveré sobre esto
+dentro de un momento, señalo justamente esto— por el hecho de que ese superyó
+fascinante, va a poder ser castrado por un cierto proceso, es decir que va a poder ser
+castrado, interrumpido y Freud podrá pasar a otra cosa.
+
+Ahora lo que me he permitido llamar mirada anonadante, es porque el "Che vuoi?" me
+parece encarnar todavía una vez, esa dimensión de una presencia mirante, con la
+diferencia casi, de que no se trata de una mira da que sería visible para el sujeto, sino que
+en ese momento el sujeto seria mirado desde un lugar que él no conoce, no sabe desde
+donde es mirado, es una mirada que introduce al Otro como radicalmente invisible y es en
+esto que, si en la fascinación —punto importante, diría que en ningún caso Freud es
+sorprendido— está fascinado, no obstante no está sorprendido dado que lo que él ve es
+algo del orden de la contigüidad, es algo del orden de lo extraño no inquietante,
+demasiado familiar para que esté sorprendido . En el significante anonadante lo que
+anonada, es que allí efectivamente el sujeto es radicalmente sorprendido y esa sorpresa
+ocurre debido al hecho de que la especularidad, lo imaginario, estalla,
+
+Ahora quisiera intentar prolongar esta dialéctica diacrónica por la cual se puede pasar as!
+de un superyó a otro con una cierta dialéctica del sujeto, e intentar rendir cuentas de una
+dialéctica topológica.
+
+Si esas diferencias son efectivamente para mí aislables, ¿de qué modo rendir cuentes
+—en la medida en que la identificación por incorporación llamada primordial está en la raíz
+del superyó— de qué modo rendir cuentan de la dialéctica entre incorporación del
+significante del Nombre del Padre y metáfora paterna, metáfora del significante del
+Nombre del Padre..?
+
+Efectivamente, estamos fundados en reconocer la incorporación como presidiendo el
+
+origen del superyó precoz. Esto es algo que Lacan nos ha habitando a comprender, es
+decir que se puede considerar que el niño por ejemplo en su forma más precoz, mientras
+que dirige al Otro esa demanda, la demanda de una otra presencia simbólica en ser
+reconocido, en fin del reconocimiento de una presencia; cuando el Otro en ese nivel es
+desfalleciente, en el nivel del reconocimiento simbólico, se puede decir  que el niño suple a
+esa falta de satisfacción simbólica, a esa Versagung,  que suple a esa deficiencia del don
+por la incorporación del objeta, es decir que sustituye a la satisfacción simbólica una
+satisfacción del orden de la necesidad (besoin), de la tendencia.
+
+Vean también otra metáfora encarnando al superyó en el hecha de que es señalado por
+Spitz en el juego en que el niño ríe en el cambio con el adulto que se enmascara y
+desenmascara. El adulto se deseo máscara, el niño efectivamente se encuentra estallar de
+risa, jubila, y ese gozo, podemos comprenderlo ¿amo el descubrimiento del niño de que
+hay un más allá de la mirada que encarna la máscara, dado que la función de la máscara
+es encarnar la presencia de la mirada; pero si bajo esa máscara, cuando el adulto se
+desenmascara, se encuentra que hay una segunda máscara, entonces lo que aparece en
+el niño es algo del orden de la angustia, ¿y esa angustia por qué ?
+
+Es que a él bruscamente le es revelado que más allá de la máscara, de hecho, desemboca
+en el hecho de que no hay más allá, y está entonces en presencia efectivamente de una
+mirada irreductible, frente a la cual no puede más que responder por ese proceso
+totalmente enigmático de la incorporación. Ven que se puede señalar en la incorporación
+tanto la incorporación de la palabra, ese muñón de palabra que va a ser el ancestro del
+superyó precoz, como la incorporación con toda verosimilitud de la mirada.
+
+Vean todavía una imagen de esa superyó mirante en esa metáfora que ha sostenido
+Lacan del ciego y el paralítico, donde es efectivamente el ciego el verdadero amo yoico y
+superyóico del paralítico. En fin, no insisto más sobre ese punto.
+
+Entonces, ¿de qué modo rendir cuentes ahora de la dialéctica entre incorporación y
+represión primaria ? Muy brevemente, pienso que se está tal vez fundado en señalar al
+menos tres incorporaciones: una incorporación pre-edípica, aquella que Freud señala en la
+cupla Bejahung/Ausatossung, incorporación que ha sido señalada por Melanie Kleinpor
+otra parte, cuando indica que el niño en la madre incorpora un significante del padre: el
+significante fálico.
+
+Una incorporación edípica, que corresponde a la incorporación del padre omnipotente
+privador de la madre, y en fin, una incorporación que marcaría la resolución del complejo
+de Edipo, post-edípíca si se puede decir, que correspondería a la incorporación de ese
+padre que es el autor de haberlo hecho tan mal Estas incorporaciones tienen diferentes
+destinos y en todo caso, sus destinos —intentaría mostrarlos si tengo tiempo— es ser
+puntuadas cada una por una cierta represión originaria.
+
+Ahora para rendir cuentes de un modo firme de una tal incorporación, creo que es
+necesario tomar las fuentes que tenemos, las primeras fuentes que tenemos sobre
+incorporación, que están en "Totem y Tabú", y he aquí un punto que quisiera hacer resaltar
+a propósito de Totem y Tabú, es el siguiente: en este libro, lo que es asombroso, es que
+haya sido el objeto de una excecración general, aún cuando haya sido al decir de Freud su
+
+libro preferido.
+
+Y algo me ha retenido, es  ¿qué? es lo que hace que las personas, si ustedes quieren, al
+menos como Levi-Strauss, hayan pasado de lado de tal modo la lectura de un libro como
+Totem y Tabú...? Es decir: ¿qué es lo que hace que alguien como Levi-Strauss haya sido
+conducido a hacer a Freud la crítica que ha hecho a Malinovski ..?, es decir que ha hecho
+de Totem y Tabú esa lectura que consiste en señalar que Freud no haría más que una
+teoría afectiva de lo sagrado, es decir que no habría, de acuerdo a Levi-Strauss,
+promoción del significante en Totem y Tabú. ,
+
+Y entonces si nos interrogados lo que hace que el significante sea efectivamente
+bastante... si parece así efectivamente no evidentemente localizable, se puede señalar
+que la noción de ambivalencia que centra el trabajo de Freud, y bien, esa noción de
+ambivalencia efectivamente se presta a confusión, dado que Freud, en la ambivalencia
+opone groseramente cuplas afectivas, el amor, el odio, el horror, el interés, y en esa cupla
+efectivamente algo se presta a confusión porque en una lectura superficial se puede tener
+el sentimiento de que promueve, digamos, el dominio del afecto.
+
+En verdad no es ese el caso, pero si se quieren estrechar las cosas más de cerca, sería
+necesario mostrar que sustituir a esa cupla ambivalente que Freud he señalado —creo que
+tendríamos interés en sustituir dos cuplas ambivalentes en tanto que hay dos series de
+constelaciones significantes que es necesario oponer, asociarlas y disociarlas. Entonces,
+¿cuales son esas cuplas...?
+
+Si quieren, pienso que en particular en el capítulo donde Freud habla del padre muerto, del
+difunto, opone en verdad el destino del padre muerto, en tanto que el padre muerto va a
+dar, si se puede decir, el ancestro, cuando los ritos son convenientemente conducidos, o
+en tanto que el padre muerto va a dar nacimiento al que vuelve  (revenant), al demonio, al
+espectro. Entre el ancestro y el que vuelve, hay efectivamente una dialéctica muy
+particular, en la que intentaría mostrar más adelante que la noción de reversibilidad— con
+la cual hemos sido sensibilizados el año pasado en el Seminario— puede ayudarnos tal
+vez a comprender algo.
+
+En el mito en todo caso, en la forma heroica del mito, algo nos es devuelto de esa
+dialéctica, de ese va-y-viene muy partícular que hay entre el ancestro y el espectro— que
+es este —son cosas que son referidas por Durkheim, por Frazer, por las tuestes de Freud,
+Spencer y Gillen (?)— y bien, el movimiento de va-y-viene que hay entre el espectro y el
+ancestro se manifiesta por ejemplo por el hecho de que: hay el padre muerto, en un primer
+tiempo el alma va a quedar aquí abajo, ella no quiere largarse, queda allí, se demora allí, y
+el por qué, es la cuestión que abordamos. 
+
+Por qué? Ocurre que ella es maligna y peligrosa. Ese espectro no quiere largarse, se
+queda allí, hay toda una serie de ritos que lo incitan a que se una a la isla de los muertos,
+el más allá, y entonces, se nos cuenta —por ejemplo en Durkheim está escrito de un modo
+bastante bonito— que hay trayectos incesantes, así, es decir que el espectro está allí
+durante un tiempo, los ritos son realizados; él se las pica de la isla de los muertos, se
+queda aquí, realiza un segundo retorno, vuelve porque no le agrada la isla de los muertos,
+vuelve nuevamente a vagabundear, nuevamente son hechos los ritos, vuelve a partir por
+
+segunda vez; ocurre que vuelve una segunda vez y, en fin, si los ritos son ejecutados
+perfectamente, vuelve a partir por tercera y última vez a la isla de los muertos de donde no
+regresará.
+
+Ven que hay una reversibilidad entre ese ancestro, ese significante del Nombre del Padre
+en tanto que asumiendo su función simbólica, y esa posibilidad de retorno en lo Real, y
+bajo una forma que ya no es aquella del significante, sino de un objeto que podemos
+calificar de objeto a, Entonces, ¿por qué debemos disociar dos cuplas ambivalentes?
+
+Nos interesa porque el ancestro y el espectro, en torno a cala arco de ellos, hay dos
+movimientos ambivalentes que cada uno sostiene y que son comparables, pero que deben
+ser diferenciados. Cada uno de los dos, efectivamente hay una oposición ambivalente
+sobre cada uno de los dos en tanto que el ancestro sostiene... cada uno de los dos diría, a
+la vez encarna un interés y un movimiento de repulsión. Pero ese interés y esa repulsión
+son de una estructura totalmente diferente a causa de las diferencias de topología.
+
+El ancestro diría, en el movimiento de interés o positivo que sostiene, el ancestro (los
+movimientos positivos son los sentimientos del orden de la veneración, del respeto, casi
+del éxtasis en una cierta comunión con él, y los sentimientos de repulsión son del orden
+del terror sagrado, son del orden del pavor sagrado, son del orden de lo que he calificado
+hace un momento como anonadamiento, el asombro más radical en cuanto ese más allá
+que es invocado —en la plegaria por ejemplo— si ocurre ese más allá de lo simbólico
+—mientras qué la plegaria parece invocar a ese más allá— aunque jamás ese más allá se
+manifieste en los re al, es necesario recordar, imaginar ese verso de Prevert: "Padre
+nuestro que estáis en los cielos...permanece  ahí..;") y bien, es eso, porque si jamás llega
+a lo Real, viene a caer en lo Real, es la catástrofe, en fin la catástrofe... es por lo menos, si
+ustedes quieren, ese anonadamiento y ese mugido del "Che vuoi?".
+
+El problema es que a la inversa, el movimiento ambivalente del espectro merece ser
+diferenciado dado que el interés que suscita, diría que es de curiosidad, de atracción como
+dicen algunos, una atracción malsana, vean la insistencia y las delicias que algunos
+parecen probar en ver los filmes de horror donde se trata ni más ni menos —muy tonta y
+débilmente— de poner en escena  seres que retornan y espectros : ¿ cual es la delicia de
+tener angustias con la aprehensión de ese retorno de ese objeto?
+
+Lo que quisiera hacerles remarcar, es que el asombro que suscita el encuentro del
+espectro, justamente no es un asombro porque es algo que en el fondo el sujeto se espera
+siempre reencontrar, no es un asombro, eso no tiene nada que ver con la Verbluffung, no
+es que carece de relación con ella, pero no es un asombro porque es algo del orden de la
+inquietante extrañara, de esa familiaridad que hace que —diría— que el su jeta no cese de
+esperarse el Ver retornar en lo Real, ver retornar en lo Real esa presencia que espera todo
+el tiempo ver manifestarse.
+
+Y tal vez no sería necesario ver en otra cosa que en ese retorno, que el sujeto espera el
+hecho de que, si lo observan cuando están en una sala, muy a menudo no pueden
+impedirse el darse vueltas para ver lo que ocurriría, como si pudiera ocurrir o pasar algo,
+Porque efectivamente  se puede  pensar que esa presencia que está en lo Real no los
+olvida, dado que ella es inolvidable, ella no es del orden de lo que pare de ser reprimido
+
+(refoulé).
+
+Entonces ven que la dimensión del espectro, del fantasma, es algo que sostiene una
+ambivalencia de otro orden que el terror sagrado y el anonadamiento, sino que sostiene
+algo del orden de la angustia y siendo el otro polo el interés, es algo que está próximo a la
+tentación. Freud por otra parte dice del "mana" en Totem y Tabú que tiene como el poder
+de invocar al sujeto de los deseos reprimidos e, invocándolos, resucitar esos deseos
+olvidados, es decir que la noción de tentación está allí presente. A partir de allí, vemos a
+ver que podemos hacer dos lecturas del "Che vuoi?".
+
+Estas dos lecturas del "Che vuoi?", diría que se las puede hacer según el modo en el cual
+sobre el grato el punzón, que separa al sujeto del pequeño a —eso, es el caso del
+espectro— o qué es el sujeto quien se encuentra caer en posición de pequeño a debido al
+hecho del anonadamiento por el significante Verbluffung.
+
+En esto se podría decir que el "Che vuoi?" encarna esa ambivalencia que no está
+explicitada en Freud, pero lo escrito gracias al punzón, debido al pequeño a, permite
+hacerlo jugar.
+
+Puede o bien encarnar la angustia por aparición, —y observen que la primera vez que
+Lacan introduce el "Che vuoi?" es refiriéndose al "Diablo amoroso" de Cazotte donde se
+manifiesta como una a parición, como esa bestia mugiente, y que va a funcionar como
+tentador—, la otra función del "Che vuoi?", es aquella efectivamente por la cual eso sería,
+no la angustia que prevalece, sino el anonadamiento por el significante que Freud califica
+de significante de "alto valor psíquico", el significante de la Verbluffung.
+
+Ahora Freud, Si ustedes quieren, que es muy interesante si se lo lee punta por punto —me
+permito hacerlo durante cinco minutos— Freud, debido a que no distinguió muy netamente
+eses dos categorías —no tiene a su disposición el objeto pequeño a tal vez, ni aquel de lo
+Real— Freud está muy indeciso en la interpretación que da del temor (crainte) a la muerte,
+como una agresividad reprimida que sería proyectada.
+
+Lo que se puede ver no obstante, es que no está satisfecho con el término "proyección"
+que emplea, y lo que no le satisface en el término "proyección" es totalmente perceptible.
+Si ustedes quieren he aquí lo que escribe: esta proyección enigmática, esta proversión
+hacia afuera de una percepción interna dice, y dice esto: en condiciones todavía
+insuficientemente  elucidadas, nuestras percepciones internas de nuestros procesos
+intelectuales y afectivos —es totalmente enigmático en Freud esa noción de percepción
+interna de procesos intelectuales y afectivos— son como percepciones sensoriales
+proyectadas hacia afuera. Percepciones sensoriales, ven allí que la dimensión lacaniana
+de lo Real es promovida por Freud a la dimensión de un retorno sensorial de lo Real.
+
+A propósito de esta percepción interna de lo que sería sensorial, recordemos lo que Freud
+escribe cuatro páginas después, es en la página donde él plantea que es sobre el terreno
+de la ambivalencía afectiva que la consciencia moral se inscribe, he aquí lo que escribe: "la
+consciencia moral es la percepción interna de la preclusión (forclusion) de ciertos deseos
+que experimentamos". El dice bien preclusión, es decir "Verwerfung". Entonces allí creo
+que se puede dar crédito a Freud cuando emplea el término "Verwerfung" y no
+
+"Verdraganng", que sabe lo que hace, incluso si está un poco indeciso con ese pequeño
+macho cabrío (bouquin), y que es necesario tomar al pie de la letra el hecho de que utiliza
+allí el término de "Verwerfung".
+
+es decir de ser fundamentalmente aquel que sería consciente del hecho de no haber
+llegado a reprimir, y por lo que su universo estaría poblado únicamente, efectivamente, por
+algo del orden de la Verwerfung.
+
+Sin embargo se puede, nada nos impide hacerlo, ver en la evolución del pensamiento de
+Freud, ver siete años más tarde en "La denegación", de qué modo retama el término
+"Verwerfung", En "La denegación" en que trata igualmente de la incorporación del destino
+del padre, tiene para calificar la presencia de lo que no ha podido tocar en suerte a la
+incorporación positiva, a la "Bejahung", tiene para calificar el destino de lo que no ha sido
+"Bejahung", de lo que no ha tocado en suerte a la simbolización.
+
+Hay diferentes términos: el término que ha sido retenido por Lacan es este de
+"Ausstossung" que ha sido traducido por expulsión(expulsión), rechazo (rejet), y hay otro
+término que me parece vale la pena que sea retenido, e interesante, que es el término
+"Werfen", es decir que no emplea ya el término "Verwerfung", emplea "Werfen", es decir lo
+que me parece importante es que suprimiendo el prefijo "Ver" que en "Verwerfung" califica
+un rechazo con esa connotación de imposibilidad de retorno, es decir algo del orden de lo
+irremediable, con la noción de lo que es "Werfen", hay efectivamente una noción de
+exclusión radical, pero la imposibilidad de retorno no está excluida radicalmente, es decir
+que una reversibilidad no es imposible, eso no quiere decir que vaya a realizarse así como
+así, sino que ella no es imposible.
+
+Entonces ven que llego al pensamiento, que uno puede decir que lo que era del orden de
+esa percepción interna, de la cual habla Freud, de los deseos que han sido "Verwerfung" o
+que han sido "Werfen"; y bien, podemos indicar allí la noción de lo que del padre
+incorporado no ha podido ser enteramente incorporable, y la noción de ese desecho, de
+ese resto, dado que todo del padre no ha sido incorporable, hay un desecho.
+
+Es necesario sin duda corregir el texto de la Verneinung, donde Freud parece, para
+calificar a la vez lo que es introyectado y lo que es expulsado, Freud toma el partido de
+decir, como si hubiera una posición antecedente del sujeto: esto lo pongo en Lo adentro
+bueno (bon dedans) y esto lo pongo en lo afuera malo (mal dehors), como si preexistiera
+una elección. Pareciera que estamos antes bien autorizados a pensar que no hay dos
+"esto",sino que no hay más que uno sólo y que el sujeto incorpora, y que se encuentra que
+algo se pierde (déchoit) de esa incorporación.
+
+Ahora, antes de intentar hablar de... de pasar a otra cosa, para fijar las ideas si quieren"
+quisiera recordar que el sueño de Irma y el comentario que de él da Lacan, ofrecen la
+posibilidad de situar esos dos reales que intento situar, es decir ese real que encarnaría el
+ancestro como siendo lo que está más allá y que no se manifiesta al sujeto, Y este real
+que es del orden de esto que se manifiesta por el sesgo del que vuelve (du revenant).
+
+ X.... (en la sala): ...(inaudible)...
+
+A. DIDIER-WEIL:  Si, se podría seguramente mostrar en relación a lo que usted dice, tal
+vez que el drama particular del psicótico es éste de no acceder en el fondo al inconsciente,
+
+Se podría pensar que la consciencia del neurótico, que no es una consciencia, sino una
+mala consciencia, es una mala consciencia en esto: que ella es el producto de un mal
+inconsciente, que no llaga del todo a simbolizar, y es este resto en el fondo quien
+despierta, quien nos impide o quien nos provoca insomnios, o quien nos impide reprimir
+más adelante.
+
+Para retomar y concretizar un poco lo que decía, se puede ver en el sueño de Irma,
+señalar los diferentes tiempos que han sido dichos allí;. Primer tiempo en el sueño de Irma,
+se puede decir que Freud esta fascinado, angustiado por la mirada que se posa sobre él.
+El propio Freud, sin duda porque es él, es quien no responde a ese real —así ha sido
+marcado ya— despertándose, ni haciendo un sueño del deseo sexual, el propio Freud; es
+que esa angustia, se podría decir esa fascinación, va a dejar lugar al anonadamiento por lo
+que probablemente se puede decir que ha habido una castración de la mirada fascinante
+que está sobre él, castración que va a ser operada justamente por la activación de un más
+allá —más allá del principio del placer— y ese anonadamiento que va a suceder a la
+angustia, diría que se introduce según la dialéctica del chiste: anonadamiento y luz.
+
+Es decir que Freud va a hacer una suerte de chiste, es decir que va a articular ese
+significante S(A)(SIMBOLO) por la puesta en juego finalmente de esa presencia que está
+en él cuando todo está perdido, dado que bajo el efecto de ese Real horrible y angustiante
+que se muestra en él, él se disuelve, todo se desvanece y en el momento en que todo  se
+desvanece, y bien, no encuentra más que algo que se sostiene bien, algo responde
+"presenté..." y responde en la ocación ''trimetilamina'', y responde "presente", como lo he
+demostrado hace unos momentos en la dialéctica, luego de la venida inesperada de ese
+anonadamiento del "Che vuoi...?". Se podría decir que ese más allá sólo ha podido
+responder a la acción disolvente del pequeño "a" en lo Real en tanto que ese más allá es
+lo Real mismo del inconsciente.
+
+ Sé que esta noción, he hablado de ella con algunos amigos quienes la encuentran
+criticables tal vez puede ser, es tal vez un poco sumariamente dicho oponer dos reales que
+mantendrían entre ellos una reversibilidad, en fin, lo importante es que en todo caso el
+sueño de Irma que todos conocemos nos permite fijar las cosas del modo siguiente: esos
+dos reales están :particularmente presentes en el sueño mismo.
+
+En el texto del sueño, hay la garganta de Irma, disolución de Freud, hiancia de la garganta
+de Irma y, en un segando tiempo que no está en el sueño pero que está en una pequeña
+nota al pie de página —hay muy probablemente una función topológica de la nota— y
+bien, ese segando real corresponde a una segunda hiancia que Freud nos indica como el
+relevo de su principio del placer que está disuelto, y esa segunda hiancia es aquella que
+resurge en el ombligo del sueño donde en su respuesta a Marcel Ritter Lacan ha
+reconocido esa dimensión de lo Unerkanate, de lo imposible de reconocer, de la represión
+originaria. Esas dos hiancias que están en el sueño de Irma, y bien de esa segunda
+hiancia, brotaba esa "trimetilamina" en esa relación con el primer real.
+
+Entonces para terminar —dado que es más tarde de lo que pensaba— voy ahora a
+intentar... allí se trata de elucubraciones, debo decir que es algo que abordo con mucha
+humildad, pero me parece que no es imposible intentar rendir cuentas —con las ideas que
+nos han aportado la noción de torsión de toro del seminario del año pasado— de esas dos
+hiancias, de esos dos reales, no es tal vez imposible rendir cuenta de ellos
+topológicamente.
+
+Debo decir que esa posibilidad efectivamente me apareció el año pasado con la ayuda de
+Contardo Caligaris, soy efectivamente bastante tímido en su manejo para hablar de eso de
+un modo sostenido, pero en fin, el doctor Lacan no me desanimó completamente de
+intentar hacerlo, entonces les someto lo que eso va a dar.
+
+Por hoy entonces, contento con dibujar muy sucintamente lo que lo representaría,.. si
+ustedes quieren, helo aquí, voy a hacerles circular eso, son dos toros —he usado
+calcetines— dos toros, uno que representaría ese mítico "adentro bueno", otro el mítico
+"afuera malo", en el cual me he permitido hacer dos agujeros y me he permitido crear una
+costura, una costura que está allí (ver esquema), ella está allí —es muy mala—; el toro
+Auestossong Werfong, dado que el problema es que estoy por intentar hablar de un real
+que no sería el Real digamos en el cual estamos acostumbrados a reconocer las causas
+de una preclusión irreversible, se trata de ver en qué algo de la preclusión o de lo Werfung
+sería reversible.
+
+Helo aquí, este "afuera malo", este "adentro bueno", la torsión, verán —voy a hacerles
+circular eso, ya está nuevamente aquí— ven que en verde he dibujado lo que sería un
+agujero simbólico en lo Real, en rojo el agujero real en lo Simbólico, y verán que si se
+entretienen manipulando ambos toros, cuya particularidad es estar separados y ligados al
+mismo tiempo por dos agujeros en los cuales me he permitido metaforizar la ligazón por
+una costura, al proceder a la torsión invaginando por el agujero puesto en común el toro
+del "afuera malo" en el del "adentro bueno", se darán cuenta que luego de la torsión los
+dos agujeros del principio se reencuentran no ya abiertos uno en otro: articulación en la
+que se soportaría tal vez el superyó arcaico, es un sostén provisorio que me doy—, sino
+separados uno de otro por la torsión que, adecuando el agujero real en el agujero
+simbólico, podría metaforizar esta nueva articulación en la cual se soportaría el segundo
+superyó, que así substituiría al primer superyó debido pues a una represión originaria del
+significante fálico, represión de la cual la torsión sería el soporte y que permitíría pasar de
+ese primer superyó arcaico al segundo.
+
+Tomo allí el ejemplo del pasaje entre el primer y el segundo superyó, es decir que el
+segundo superyó encarnaría eso que queda de lo real del primer superyó luego de la
+simbolización.
+
+Lo real subsiste, pero de un modo más simbolizable, en fin más articulado, y se podría tal
+vez — debo decir que balbuceo totalmente en este punto— se podría tal vez con el tercer
+superyó continuar la operación es decir ir hasta el punto de reducción última de lo Real,
+ver hasta dónde la represión originaria pudo llegar a escodar en lo Real, a articularlo. No
+estoy allí. Entonces voy a pasarles ese calcetín, verán si eso les puede... 
+
+significante del Nombre del Padre, Quisiera recordarles que antes que Lacan haya
+introducido el problema de la metáfora del Nombre del Padre en el seminario sobre "Las
+formaciones del Inconsciente", lo introdujo en una reflexión sobre la función del
+aburrimiento (ennui),
+
+Eso me pareció totalmente penetrante, y en el punto en que estoy se me ocurrió que el
+aburrimiento se podría articular en relación a lo que intento decir hoy; que el aburrimiento
+en el fondo es lo que se produce cuando un sujeto ya no es apto para la sorpresa, para el
+asombro, hablo siempre del asombro en el sentido fuerte, en el sentido de la "Verbluffang",
+del anonadamiento.
+
+Sin ir tan lejos, observen a los niños en los cuales el relanzamiento del deseo es
+incesantemente articulado por el hecho de que no conocen el aburrimiento en absoluto:
+todo los asombra. ¿Qué es lo que hace que un sujeto pueda perder la aptitud para el
+asombro, para ser sorprendido, y conocer el aburrimiento ?
+
+En el aburrimiento diría, lo que nos ocurre es que accedemos a una percepción dolorosa
+de la repetición, la repetición se da en nosotros bajo el sesgo de lo monótono y por esa
+dimensión de lo monótono, lo que se produce, si piensan bien en eso, verán que eso
+coincide con algo —me excuso de ir un poco rápido, pero creo que se lo puede decir al
+menos eso corresponde con algo del orden de la usura (usure) de la metáfora paterna.
+
+Las metáforas se gastan (s'usent): observen un chiste, produce efecto por un tiempo, un
+chiste se gastats'use; una vez gastado, efectivamente él es monótono. Diría que el
+desgaste(usure) de la metáfora, e] efecto, el efecto de ese desgaste y ese desgaste se
+produce justamente bajo el efecto del impacto de esos significantes que persisten en lo
+Real y que son corrosivos para la metáfora, ese desgaste (usure), diría que él está ligado a
+la aparición del desecho en nuestro universo
+
+Sin ir tan lejos, observen por ejemplo un síntoma, el caso que les citaba hace un momento,
+el olvido de Freud de la palabra Signorell Freud no logró metaforizar el significante de alta
+intensidad psíquica "Herr", el señor, y no habiendo llagado a simbolizarlo ¿qué es lo que
+ocurre ?.
+
+Ocurre que lo que le queda, son desechos, y desechos metonímicos dado que la
+metonimia, es algo del orden del desecho, de la contigüidad, y es algo que esencialmente
+no sorprende, nada menos sorprendente que la contigüidad, en la medida en que reenvío
+de un otro a un otro, a un otro que no se escribe jamás con una mayúscula,
+
+La usura de la metáfora, pueden retener que ella está ligada a la aparición en nuestro
+universo del desecho, que ese desecho sea del orden subjetivo con lo que se llama la
+culpabilidad o el pecado, o que ese desecho sea incluso la aparición de ese desecho que
+es nuestro propio cuerpo en la medida en que a nuestro cuerpo en la perspectiva de ese
+aburrimiento o de esa monotonía, lo que le ocurre, es que puede ponerse a veces a estar
+diría, sometido a una ley que sería la ley exclusiva de lo Real, quiero decir la ley de la
+gravedad.
+
+Bueno, voy a concluir lo más rápidamente posible con algunas consideraciones sobre el
+
+Quiero decir con eso que, mientras nuestro cuerpo se ponga a manifestarse por el hecho
+
+de que él pesa, porque no estaría sometido más que a la ley de la gravedad; y bien, ven
+allí la acentuación de la función de ese desecho que es nuestro cuerpo, totalmente
+opuesta si quieren, cuando el cuerpo está sometido a ese otro Real que es éste del
+significante que lo aligera, la que hace que vean a algunas personas caminar por la calle
+como si no pesaran, que parecen ser como una pluma, cualquiera sea su peso, es algo de
+esa naturaleza.
+
+Y se puede decir que ese desecho que es el cuerpo cuando se pone a pesar, y bien,
+podemos oponerlo a lo que ocurre al cuerpo cuando bruscamente se aligera, se aligera por
+ejemplo en la fiesta o en la comida totémica o muy simplemente en el amor, en el flechazo,
+el rayo anonadante, lo que representa para un hombre ese significante de alta intensidad
+psíquica que es la mujer, ese significante anonadante, es necesario reconocer que tiene el
+poder, suscitando el amor — suscitando el amor, además el término de mujer fatal nos
+hace sentir tal vez que por esa fatalidad, lo que el hombre encuentra de fatal, es algo del
+orden del significante del Nombre del Padre— y bien, ¿qué es lo que ocurre cuando se
+pierde la cabeza en el amor o en el cuerpo?: es que ustedes se vuelven de tal modo
+ligeros o aligerados que en el límite, como el maníaco, pierden vuestro lastre, y devienen
+locos, ya no pesan nada, pierden el cuerpo, la cabeza
+
+Y entonces lo que quería señalarles, es que esa consunción o esa consumación del resto
+que es esta consumación del cuerpo cuando él ya no pesa, y bien, observen que
+justamente en la comida totémica o en las fiestas que son estudiadas en las sociedades
+mágicas, los restos, correlativamente a la incorporación del padre, hay esa ceremonia —lo
+que ha sido retenido por Freud— que consiste en quemar los restos.
+
+Todo lo que es del orden del desecho, del moho, es apilado durante el tiempo de la vida
+profana y quemado con la más grande precaución en el tiempo de la comida totémica.
+
+Y creo que es algo que nos permitiría articular una cuestión que Freud plantea sin ir más
+lejos, él se pregunta qué es lo que hace que periódicamente viva la amenaza —habla del
+hombre totémicola amenaza de la desaparición en él de la fuerza del padre que ha sido
+incorporada. Plantea esta cuestión, señala que es debido al hecho de esa amenaza de
+desaparición que la incorporación debe tener lugar, sin plantear efectivamente la cuestión:
+¿qué es lo que procede a esta degeneración —si se puede decir— de la potencia paterna
+incorporada ?
+
+Concluiría allí recordándoles que Freud ha escrito "Tótem y Tabú" en el marco, esa
+búsqueda del significante del Nombre del Padre que es "Tótem y Tabú", lo ha escrito en el
+marco de su diátriba con Jung, y lo ha escrito para romper con Jung y para romper con lo
+que llama la religión aria Y a Jung que se planteaba la cuestión de la degeneración de la
+energía vital de los alemánes, de la raza alemana —no voy a tener tiempo para ir mucho
+más lejos— pero a Jung que se planteaba esa cuestión, Freud responde en parte, como
+puede, en ese texto.
+
+Lo que es interesante es ver la forma en la cual Jung plantea el problema, Jung se dice
+cuando el nacional-socialismo despunta, la cuestión que plantea, es una cuestión de una
+ingenuidad extraordinaria, es una cuestión que es tanto más sorprendente cuanto que ella
+ha sido planteada en un congreso de lenguas romances por un analista que pensaba
+
+hacer el reproche más mordaz que fuera posible a la enseñanza de Lacan; Jung se
+plantea la cuestión siguiente, que es: ¿pero antes de la explosión de esa energía
+extraordinaria que manifiesta en nacional-socialismo, dónde estaba esa energía inaudita?
+El plantea allí un problema, no de topología, si no prácticamente de topografía, es decir
+que él se dice: si eso aparece, es que seguramente debía de estar en alguna parte,
+
+Es de un modo absoluto la teoría de los psicoanalistas que promueven el afecto al rango
+de significante y que os dicen: cuando un afecta aparece, es necesario seguramente que
+antes de aparecer haya estado en alguna parte, debía estar en alguna parte, eso no nace
+de la nada.
+
+Entonces a Jung que plantea esa cuestión, y efectivamente ustedes sienten que lo que
+está en cuestión para Jung en esa senda, es en el fondo el drama que representa para
+todo individuo el hecho de que sea el mismo padre, el mismo padre muerto quien esté en
+el origen a la vez del significante del Nombre 'del Padre y a la vez del superyó, de ese
+superyó persecutorio, casi melancólico, dado que la incorporación en el fondo que hace
+más del padre, el duelo que hacemos del padre en tanto que es o que sería ese individuo
+inacabado que por habernos hecho mejor que eso, es un duelo imposible que linda con la
+melancolía.
+
+Es necesario vivirlo, es necesario hacerlo, pero se concibe que eso no sea fácil, para no
+decir imposible, y se concibe que en la religión totémica lo que ocurre, es que el
+significante sabe de entrada lo que ha incorporado: es el padre, Digo eso porque es
+necesario deslindarlo de las religiones digamos de posesión. En las religiones de posesión
+o chamánicas, el sujeto es poseído por un espíritu, no sabe cual, no es más que en un
+tiempo ulterior que la divinidad va a nombrarse y declamar sus insignias.
+
+Pues no va de suyo el saber cual es el padre incorporado, y efectivamente la doctrina de
+Jung muestra que eso no va de suyo, dado que el padre que ha sido incorporado, y bien,
+eso, no va de suyo que hubiera sido necesario esperar efectivamente los descubrimientos
+de Chamberlain para haber situado eso del lado de las indias.
+
+En conclusión terminaría diciendo esto, es que en el fondo la metáfora paterna tiene por
+función sostener una antinomia, que es aquella que consiste en suscitar ese exceso de
+energía del cual habla Jung; del cual hablan todas las personas que están angustiadas por
+la noción de una decadencia, de una pérdida energética, que consiste en suscitar un
+exceso de energía pulsional que desborda toda palabra, toda nominación —es un poco el
+mana del cual nos habla Lévi-Strauss— y al mismo tiempo que consiste en no ceder a ese
+movimiento de una fuerza vital que quisiera emanciparse, no pertenecer más que a sí
+misma, en la frescura de una inocencia recuperada.
+
+El significante del Nombre del Padre funda el excedente pulsional en tanto que no
+cediendo al hecho que lo funda y, si cede, vemos la emancipación de esas fuerzas de vida
+de las cuales Jung hace la apología, de las cuales los psicóticos hacen la experiencia que
+conocemos —Artaud por ejemplo, que toda su vida evoca la presencia de fuerzas vitales
+que lo codeaban, con la nostalgia de no estar poseído por ellas como ocurría en el teatro
+antiguo, dado que esas fuerzas, tiene consciencia de ellas, el saber, pero no puede
+articularlas— cuando no cede, puede ocurrir que el sujeto alcance conforme al grato que
+
+es también la forma en la cual un "parl'être" puede trabajar, para utilizar el efecto de la
+insistencia de ese exceso puntuándolo sobre el mismo punto desde donde en él insiste
+ese exceso, mientras ese exceso nacido en la falta de significante acepta, vuelve sobre el
+mismo y procede a la nominación, a la metaforización pues de ese significante siempre
+nuevo por el hecho de no cesar por no encontrar el punto desde donde insiste.
+
+Es en suma, una de las grandes lecciónes, uno de los grandes ejemplos que podemos
+retener de Freud o Lacan. Pero para tomar ejemplos del hecho de proferir enunciados de
+los cuales la consistencia no ha de ser concedida por la consciencia, no ha de ser
+concedida por el cuidado de la elaboración secundaria de contradecirse, sino por aquel de
+no desdecirse, Y efectivamente ¿qué devendría nuestro trabajo si fuera endurecido por un
+superyó previniente(prémunissant) de la función del asombro ?
+
+Ya está bien...¡
+
+Esquema del pizarrón:
+
+15 de Mayo de 1979
+
+volverle. No somos más el mismo, porque en el acto de decir, cambio; la expresión "sujeto
+efecto del significante" quiere decir justamente que el sujeto cambia con el acto de decir.
+
+LACAN:
+Hoy será un diálogo entre Nasio y Jean-Michel Vappereau.
+
+NASIO: Parecería que subir a este estrado conduce casi automáticamente a solicitarles, a
+ustedes los oyentes del Seminario de Lacan, indulgencia. Pues es solamente ayer, lunes a
+medio día, que Lacan me solicitó hablarles de una cuestión que yo le había planteado. Ella
+concierne a la teoría del sujeto del inconsciente. Si debiera intitular esta intervención
+escribiría: "el niño magnífico del psicoanálisis".
+
+Cuando al comienzo del año, mi proyecto era estudiar la articulación entre el saber
+inconsciente y la interpretación, progresivamente, conforme a ciertos desarrollos, la
+cuestión del sujeto tomó la delantera, devino el problema principal. Esta mañana, me
+limitaría a una evocación sucinta de los abordajes posibles del concepto de sujeto
+—abordajes ciertamente conocidos por la mayor parte de ustedes— a fin de plantearles de
+inmediato algunas interrogaciones.
+
+Dividamos este resumen en tres partes: según la relación del sujeto al saber inconsciente,
+según la relación del sujeto a la lógica de Frege, y en fin, según la relación del sujeto a la
+castración.
+
+I.- Nuestro punto de partida será el del psicoanálisis mismo, constituido por ese hecho de
+lenguaje que se enuncia: "no sé lo que digo". Si el deseo de la histérica es fundador de la
+transferencia, el "no sé lo que digo" es el hecho fundador de la noción de inconsciente en
+Freud y de la noción de inconsciente como saber en Lacan.
+
+Así pues "no sé lo que digo", ¿No sé qué? No sé que lo que digo es un significante y que,
+como tal, no se dirige al hablante, sino a otro significante. Se dirige al Otro. Hablo, emito
+sonidos, construyo sentidos, pero lo dicho, él, me escapa, Me escapa porque no está en
+poder del sujeto el saber con qué otro dicho ese dicho va a ligarse. "El significante se
+dirige al Otro" quiere decir que va a ligarse con otro significante, en otra parte, al lado,
+luego. Así pues ¿no sé qué?: el efecto de mi palabra sobre usted. Sobre el Otro. Y por no
+saber lo que digo, digo más de lo que quisiera.
+
+En una palabra, no sé lo que digo porque mi dicho va a otra parte, sin yo saberlo se dirige
+al Otro, y, sin saberlo también, me viene del Otro. Me viene del Otro y se dirige al Otro,
+parte del Otro y vuelve al Otro.
+
+Y en resumen, ¿no sé qué...?
+
+No sé que estaba allí, bajo tal significante. Que tal dicho ha sido el significante, mi
+significante, el significante del sujeto. Pues estaba allí, en el punto de no-saber .Y ese
+punto de no-saber representa lo que escapa al Otro y que se dirige al él,
+
+2. Por no saber cuál es el significante bajo la copa del cual me encontraba, ignoro
+simultáneamente el otro significante al cual él se dirige. Dicho de otro modo: no sé,
+diciendo, cual significante me espera.
+
+3.No sé que soy.
+
+En suma, ustedes tienen por una parte el sujeto fijado, suspendido a un significante, aquel
+de su acto de decir. Por otra parte los significantes se suceden uno tras otro; el sujeto, de
+hecho, no está en ninguna parte. Repito, pues es la conclusión a la cual quería llegar: el
+sujeto está en su acto, su acto de enunciar el dicho, pero, siendo que éste viene del Otro y
+se dirige al Otro, que todo ocurre entre dichos, el sujeto queda suspendido, perdido,
+borrado en el conjunto abierto de los significantes encadenados. Somos el sujeto del acto
+y con ese acto, sin embargo desaparecemos. Somos el sujeto del acto y no somos* . He
+aquí lo que se podría llamar la antinomia del sujeto.
+
+Pronuncio "somos" (nous sommes). Ahora bien, luego de lo que precede, "somos" es una
+inexactitud. Pues, si digo que el sujeto está(est) en el acto, luego que se borra en todos los
+dichos que se suceden, queda la cuestión: ¿pero qué es este 'nosotros' (nous)? Digo
+"somos", pues ¿de qué modo indicar de otra forma que "no sabríamos especular sobre el
+sujeto sin partir de esto: que nosotros mismos como sujetos, estamos (nous sommes)
+implicados en esa profunda duplicidad del sujeto..?" (Lacan).
+
+II.- Podemos en principio, representarnos esa antinomia mediante un objeto topológico
+introducido desde hace largo tiempo en la teoría lacaniana. En lugar de definir al sujeto, la
+banda de Moebius va a mostrárnoslo. Pero sería falso identificar directamente al sujeto
+con la banda y decir señalándola: he aquí al sujeto. No. Lo que nos interesa en la banda
+de Moebius, es que su propiedad de tener un sólo borde cambia si se opera un corte
+mediano -al menos es el caso para una cinta torcida con una sola semi-torsión. En ese
+momento, es decir en el momento de realizar una curva cerrada -que se une a su punto de
+partida-, la banda propiamente dicha desaparece, resulta de eso una cinta que ya no es
+más una banda moebiana.
+
+Existe todavía una razón para ese "no sé lo que digo". Es que el sujeto que enuncia su
+dicho - insisto, el sujeto que enuncia- no es el mismo cuando el mensaje, o dicho, puede
+
+No basta pues representar al sujeto en el espacio, hace falta también el acto de cortar, de
+trazar una curva cerrada. El acto de decir es del mismo tipo, dado que el significante
+
+determina, hiende al sujeto en dos, lo representa y lo hace desaparecer.
+
+utilizarlo para desmarcar el psicoanálisis del formalismo.
+
+Procedamos a una segunda forma -lógica esta vez- de considerar la antinomia. Para ese
+asunto, retomemos el análisis establecido hace largo tiempo por el discurso lacaniano, de
+la relación entre lo Uno y el cero en correspondencia con la relación del sujeto y del
+significante.
+
+No entraré en detalles concernientes a la demostración, ella ha sido rigurosamente tratada
+por J.A.Miller en su texto sobre "La Sutura". (Nota del traductor(2)). Me limitaré a los puntos
+esenciales de esa correlación a fin de responder a la cuestión que nos preocupa: ¿de qué
+modo rendir cuenta de ese hecho teórico de que el sujeto es imposible y no obstante
+nombrado, y más que nombrado, contado como uno -sea uno en más o uno en menos..?
+¿De qué modo esa cosa huidiza que es el sujeto puede ser fijada a un significante ?
+
+La proximidad con la definición del cero suministrada por Frege es aquí esclarecedora; es
+un número dotado con dos propiedades: por una parte designa el concepto de un objeto
+imposible, no respecto de la realidad, sino de la verdad en tanto que no-idéntico a sí; y por
+otra parte, -en relación a la continuación de los números- el cero cuenta como uno. El cero
+se define entonces en tanto que concepto de lo imposible y en tanto que elemento
+ocupando un lugar en la sucesión numérica. Igualmente el sujeto, siendo totalmente
+rechazado de la cadena significante, queda sin embargo representado por un significante
+y, en consecuencia, elemento contable.
+
+Hay pues una estrecha afinidad entre el sujeto y el cero, aún más apretada e importante si
+se considera esa función que les es común: tanto uno como otro aseguran por su lugar
+singular el movimiento de la continuación de los números. Así, cuando definimos al sujeto
+del inconsciente como efecto del significante en el ser hablante, queremos decir que el
+desfile de los significantes a través nuestro, hace de nosotros una constante, un cero, una
+falta, una falta-pilar que va a sostener precisamente toda la cadena.
+
+¿De qué modo se juega todo esto en el análisis ? ¿No es una especulación descarnada?
+¿Qué otro objetivo analítico podemos esperar, como no ser que el sujeto en un análisis,
+hable, no para decir sentidos , para significar, sino para significarse..?
+
+Es decir que un sujeto habla -allí reside la paradoja- para desaparecer. Para que haga acto
+y se borre enseguida. Solicitamos, esperamos que el sujeto dimita, venga al Otro,
+desaparezca y, simultáneamente, vuelva a lanzar la cadena de los significantes
+inconsciente. El sujeto dice y, diciendo, deviene sujeto y desaparece. Antes del acto no era
+, luego del acto ya no es. El sujeto "ex-iste" fuera de esa cadena, pero en relación a ella.
+
+En éste punto de la demostración, antes de entrar en el problema de la castración,
+anticipamos ya la interrogación de la cual quería hacerlos partícipes: ¿por qué, si todo el
+sistema es significante, si el orden es significante, introducir ahí el término sujeto? ¿Por
+qué Lacan tiende a guardar ese término allí donde, en principio, todo conduce a decir que
+no hay nada de tal? Ahora bien, está ya claro que negar la existencia del sujeto, al menos
+desde el punto de vista de la teoría lacaniana, es un error. Si ustedes dicen: el sujeto está
+bajo el significante, luego ya no lo está, cometen un error. El sujeto está dividido, así lo
+está pues en la cadena. Lacan ha tendido a conservar ese término de sujeto , es decir a
+
+Incluso en relación a Freud, sostiene al sujeto. Hay una cita muy bella donde, hablando de
+la satisfacción del deseo -ustedes saben que el deseo se satisface en el símbolo, en el
+significante- Lacan afirma: "Freud nos dice: 'el deseo se satisface', mientras que yo
+propongo: el sujeto del deseo se satisface". ¿Por qué no desiste de esa cuestión del sujeto
+?
+
+Al retomar ese desvío, ese matiz en relación a Freud, uno puede preguntarse si es el
+concepto de satisfacción quien lo conduce a no abandonar el sujeto. El sujeto, ¿le es
+necesario para hablar de goce o de satisfacción? En mi opinión no es esa la vía que
+debemos seguir, verán más tarde que la relación entre el sujeto y el goce es una relación
+de oposición. Se podría decir con algunas reservas: allí donde hay goce, no hay sujeto. No
+es pues esa problemática del goce quien explica su adhesión al concepto de sujeto.
+
+III.- Antes de exponer qué problemática resuelve ese término de sujeto, volvamos
+directamente a nuestra tercer relación, aquella del sujeto con la castración. Es en el marco
+de la castración que encontraremos en Lacan una primer respuesta, inspirada en el
+término de aphanisis extraido de Jones, al cual se refiere en la mayor parte de sus
+seminarios para hacer de el -no sin admiración- la crítica. Por otra parte ciertos
+
+conceptos importantes en la teoría lacaniana llevan tan fuertemente el sello de Jones, que
+me he dicho, que Lacan ama a Freud como a su doble pero es a Jones a quien desea.
+
+Así pues cuando Freud escribe: el deseo se satisface, él dice, el sujeto del deseo se
+satisface. Jones propone, aphanisis del deseo, él dice, no, es la aphanisis del sujeto. Ha
+encontrado pues el medio de decir: no es que el sujeto esté ausente de la cadena de los
+significantes, no es que no estemos en los mil y un acontecimientos que van a sucederse,
+es que el sujeto está pero como borrado, el sujeto 'se aphanisa', se desvanece en el Otro.
+
+Si ahora nos remitimos a la castración y a la relación establecida por Lacan hace ya
+muchos años, entre tener el falo y serlo, veremos al concepto de aphanisis desdoblarse
+según el lugar que el sujeto ocupe en referencia al significante o bien al objeto fálico.
+
+No puedo entrar aquí en el examen profundo de un punto que hemos tratado en otra parte.
+Nos preguntaremos simplemente, a manera de recuerdo, lo que queremos decir cuando
+utilizamos la expresión bien conocida de "estar castrado".  Ponemos ahí tres
+significaciónes: en principio que el ser hablante no se confronta más que con dos medios,
+el significante -síntoma o no- y el fantasma; medios artesanales, incapaces pues de
+resolver el impasse del goce, entendido aquí como inexistencia de relación sexual. Luego,
+que el recurso a los significantes es una coerción y una sumisión: coerción a una
+repetición inútil pues la suplencia no se lleva a cabo, ella falla (rate); sumisión al término
+que ordena esa repetición: el significante fálico.
+
+Tener el falo quiere decir esto: no tener nada de nada y quedar no obstante sometido a la
+función fálica. Y, en fin, he aquí que en ese trabajo inexorable de poner significantes unos
+junto a otros en el curso de una vida, el sujeto se apaga pasivamente, se "aphanisa". Allí
+
+está una de las formas de desaparición.
+
+La otra, relativa a ser el falo, depende de una dimensión bien diferente, aquella del
+fantasma en que vemos desaparecer al sujeto escondido detrás del objeto fantasmático.
+Es necesario pues sumariamente distinguir dos clases de aphanisis, dos modos de no
+estar más allí  -lo que es totalmente otra cosa que no ser- : una forma propia a la
+repetición, la otra propia a la ocultación.
+
+Se ve pues sin dificultad que la castración no es, como se podría creerlo, una operación
+negativa de eliminación de un órgano. Al contrario, castrar es un trabajo de proliferación
+inexorable de significantes sucesivos. Y, si algo es afectado de privación, no es el pene, es
+el sujeto mismo. Castrar, es decapitar pues, más los significantes insisten y se repiten,
+más el sujeto es en menos.  
+
+Si ahora para resumir, cambiamos de vocabulario y nos interrogamos nuevamente: ¿qué
+es la castración..?, diremos que ella es una iniciación, una entrada del niño en el mundo
+del fracaso (échec) el vías de abordar el goce -incluso no de conocerlo, solamente
+significarlo- al precio de desaparecer. Una vez más, terminamos en la misma conclusión: el
+niño entra en el mundo y palidece.
+
+Retornemos al cuestionamiento de hace un rato: ¿de qué suerte de obstáculo ese término
+de sujeto nos libera? Someto a  vuestra apreciación la idea de que, el impasse que Lacan
+ha debido recoger es la alternativa ya muy antigua del ser y del no-ser. Le era necesario
+-según mi interpretación no ontologizar al sujeto, no hacer de él un sustrato; le era
+necesario, dicho de otro modo, no plancharlo a la noción de representado; le era necesario
+que el sujeto no sea solamente una cosa marcada por la representación, lo que para un
+Berkeley se traduciría por su célebre fórmula "ser, es ser percibido", y para nosotros por "el
+sujeto, es el sujeto representado". 
+
+Se trata pues para Lacan de evitar ese sujeto-sustrato, identificado exclusivamente a una
+representación. Si el sujeto no fuera más que ello, pura representación, seríamos
+naturalmente conducidos a erigirlo en entidad absoluta, substancial. Ahora bien, era
+necesario, para no terminar en la redecilla de la metafísica, que ese sujeto sea otro.
+
+Lacan pues, guarda en una mano esa noción de representado pero, para que ello no sea
+un sustrato, introduce entonces con la otra la noción de sujeto eclipsado (effacé) en toda la
+cadena. Siendo la inversa válida: la necesidad de no hacer desaparecer completamente al
+sujeto explica el recurso a la noción de sujeto representado. Ese doble juego,
+seguramente, es el sujeto dividido.
+
+Quiero ser claro sobre este punto: la astucia no es tanto haber dividido al sujeto -habría
+podido dividirlo en ser y no-ser como haberlo dividido entre la representación y el conjunto
+de las representaciones- ¿Qué interés tiene eso ? Es que, de ese modo, divide al sujeto
+entre el ser representado y, por otra parte, lo hace estallar en tantos dichos, tantos
+significantes como se ordenen en cadena.
+
+Así, guarda al sujeto y conserva sobre todo la cadena, la cadena de las representaciones
+inconscientes, o bien la cadena de los significantes. Insisto todavía sobre el hecho de que
+
+la división del sujeto no reside entre el ser y el no-ser, sino entre lo Uno y el Otro, entre un
+significante que lo representa y el desvanecimiento en la cadena, o, todavía, para retomar
+nuestras letras, entre S1 y S2 .
+
+Ahora bien, la solución de dividir el sujeto eludiendo esos dos riesgos reposa totalmente
+sobre la función representativa: un significante representa al sujeto para otro significante.
+Sin ese concepto de representación, la división del sujeto sería impensable, pues es por
+un representante que el sujeto permanece ligado al sistema. Pero -he aquí la interrogación
+que he presentado al Mr. Lacan y que someto a ustedes- esa amarra de la representación
+¿no es demasiado delgada para mantener unidas dos dimensiones tan heterogéneas: la
+determinación significante y el efecto de un sujeto desaparecido?
+
+¿De qué modo concebir que la representación pueda reunir la determinación y el rechazo
+(rejet), la causa de la abolición y lo que es abolido? Para algunos de entre ustedes una tal
+cuestión puede suscitar objeciones, entre la cuales algunas podrían incluso encontrarse ya
+en la trama de esta exposición, es decir haber sido adelantadas por mí mismo. Sin
+embargo, prefiero al contrario no acallar la cuestión y dejarla
+
+conducirnos sin prejuicios de que, más tarde, seamos obligados a volver sobre nuestros
+pasos.
+
+Así pues, a partir de este cuestionamiento de la representación en tanto que divisor del
+sujeto, me parece posible, antes que dividir horizontalmente al sujeto, multiplicarlo
+verticalmente en tantos significantes como compongan una cadena. Un sujeto escalonado
+(étagé), hojaldrado (feuilleté) en suma. Esa concepción espacial del sujeto nos aparece
+con la consideración de una cierta clase de superficie topológica, llamada superficie de
+Riemann(3), definida por una función analítica.
+
+Riemann, sabio y matemático del siglo XIX, había resuelto genialmente -en el marco de la
+teoría de las funciones analíticas de variable compleja el caso anormal de una función
+multiforme. Es el caso -no hago más que mencionarlo- de una variable-relativa a un
+número complejo, por ejemplo raíz cuadrada de z- a la cual corresponde más de una
+función.
+
+A fin de quitar el obstáculo de una irregularidad molesta para otros cálculos -cálculo
+integral- Riemann sale, por así decir, del campo propio de las funciones algebraicas y
+recorta al espacio geométrico, es decir a lo imaginario del espacio. Así procede a una
+multiplicación de la variable en tantos valores como funciones hay. En lugar de buscar
+pues reducir el número de funciones y acordar una función a una variable, encuentra ese
+mismo acuerdo desglosando el valor de la variable; en una palabra, en lugar de disminuir
+las funciones, desmultiplica la variable (nota del traductor(4)).
+
+Ahora bien, esa multiplicación tendrá, al menos en la marcha de Riemann -aquello ha sido
+modificado después- un soporte espacial, topológico. Erige hacia arriba un armazón
+compuesto por hojas superpuestas, cada una correspondiendo a un valor y recubriendo el
+conjunto, el plano de los números complejos; el número de pisos o de hojas puede, según
+el género de superficie, incrementarse al infinito. Es esa estructura, precisamente, la que
+se llama superficie de recubrimiento de Riemann.
+
+La analogía de un análisis de ese tipo con el sujeto es para nosotros notable. ¿Por qué no
+suponer -sin prejuicio de retomarnos- que el sujeto sufre el mismo tipo de crecimiento, el
+mismo hojaldrado que Riemann hacía sufrir al valor de la variable y suponer todavía que, si
+el sujeto se multiplica así en la medida de los significantes componentes de la cadena,
+termina por identificarse a ella.?
+
+Sabemos bien que esto significaría liberar al sujeto de toda ligazón al sistema, dado que a
+ese sistema, lo deviene. Sabemos también que existe un nombre para designar esa
+asimilación del sujeto a la cadena: el sujeto supuesto saber. Sabemos aún, como he
+intentado explicarlo, que no hay que confundir negación del sujeto y dependencia del
+sujeto, que una cosa es decir que el sujeto no está y otra que se aphanisa.
+
+Todo esto lo sabemos. Pero de ordinario, cuando los psicoanalistas que somos practican
+tanto la teoría como el análisis, ese sujeto se escurre de entre nuestros dedos; razonamos
+y filosofamos como si de hecho el sujeto no fuera más que un ornamento sobre añadido,
+un "joker" cómodo en el juego teórico. Todo ocurre como ni fuésemos "sujetistas" de
+pensamiento, pero formalistas de corazón.
+
+Ahora bien, cuando proponemos, con el apoyo de la superficie de Riemann, ver al sujeto
+hojaldrarse y desaparecer, estamos a punto de confirmar esa intuición, mejor, tal vez
+estemos a punto de interrogarlo como un síntoma en lugar de intentar obstinadamente
+corregirlo. El campo estaría entonces más despejado para reconocer fácilmente la
+necesidad de profundizar la aphanisis efectiva del sujeto y, simultáneamente, en
+consecuencia, volver a trabajar la dimensión imaginaria del yo (moi).
+
+A partir de nuestras formulaciones sobre el sujeto, es  muy particularmente ese tema del
+yo y de la intuición quien se ofrece al examen. Si el sujeto queda confinado a la cadena
+como lo suponemos, se impone entonces la necesidad de inclinarnos sobre la pendiente
+de la instancia imaginaria del yo y analizar más a fondo su relación con la intuición.
+
+En resumen, se trataría de mantener  viva la cuestión: "¿qué es el sujeto?" Si retomamos
+nuestra terminología hablando de la castración, si en lugar de sujeto decimos niño, si en
+lugar de cadena traducimos ley del padre, si en lugar de afirmar simplemente goce
+añadimos goce de la madre, y si, en fin, nos interrogamos qué es ese niño magnífico del
+psicoanálisis, qué es ese niño del cual el psicoanálisis habla tanto para sostener sus
+hipótesis, deberemos entonces responder que ese niño, ese sujeto pues, es esto que
+habla y piensa con palabras del padre granjeadas por el goce de la madre.
+
+Es el niño que no sabe lo que dice sin incluso poder gozar. El niño magnífico del
+psicoanálisis, nosotros los seres hablantes, no somos más que seres de viento,
+mensajeros evanescentes entre el goce que aspira a las palabras y el nombre del padre
+que las ordena.
+
+(Este texto ha sido revisado por el Sr. J.D.Nasio).
+
+banda de Moebius, porque creo que, como con el espacio de Riemann, uno se imagina
+que es a partir de allí que podríamos dialogar. Entonces, voy a dibujar esa banda de
+Moebius y encontrarán el comentario del dibujo que voy a hacer en "L'Etourdit", que se
+encuentra en Scilicet.
+
+No daré un desarrollo comparable a lo que allí es dicho, dado que no tengo intención de
+ilustrar ese texto, y voy antes bien a servirme de él para responder a la cuestión ... en fin,
+digamos, el Dr. Lacan me incitó a hablarles, me presentó los cuatro volúmenes del
+Seminario que han sido editados, y me solicitó sacar de eso alguna cosa para ustedes, y
+he hecho algunos dibujos.
+
+Entonces he aquí la banda de Moebius de la cual habló Nasio a propósito del S1----› S2 en
+términos de matemas, y voy a trazar el diseño del corte del cual él ha hablado de un modo
+brillante. He aquí ese corte.
+
+Si ustedes extraen el jirón de superficie que obtienen luego de haber cortado según el
+trazo azul, que es un trazo continuo, obtienen una superficie de un sólo borde y una sola
+cara, que es ella misma una superficie de Moebius.
+
+Y del otro lado del pizarrón, voy a dibujar en el otro extremo, una cadena borromeana en la
+cual se podría por otra parte poner una con consistencia en azul. Entonces helo aquí, es
+entre esos dos dibujos que voy a intentar hablarles de los cuatro volúmenes del Seminario,
+a propósito de dos términos, a propósito en principio del término de máquina y de este de
+nudo.
+
+Entonces, en esos cuatro volúmenes, las máquinas ocupan un lugar muy importante, en el
+segundo, en el Libro II. Y es bien evidente que, cuando he comenzado a leer el Libro I,
+dado que apareció al mismo tiempo que "Encore", el Libro XX -el Libro XX, había asistido
+al Seminario, estaba muy contento de tenerlo, así, para poder leerlo- y bien, el Libro I,
+debo decir que no comprendía muy bien el comienzo, donde estaba la cuestión del Ego,
+un término que no conozco dado que no es, digamos, un asunto en el lugar de donde
+vengo, entonces esperé un poco, y es solamente a propósito de esa cuestión del más allá
+de la psicología que me encuentro particularmente interesado.
+
+VAPPEREAU:  No he querido interrumpir a Nasio en el momento en que hablaba de la
+
+Ahora bien, esa cuestión es desarrollada en el Seminario en términos de Imaginario y de
+
+Simbólico que en un primer tiempo, les propongo considerar como siendo las dos fases de
+una banda bipartita, que están aquí de uno y otro lado del azul, dado que sería necesario
+que se dieran cuenta, que, sea dibujándola, sea cortándola, se obtiene -sobre la banda de
+Moebius así- se obtiene una banda bipartita, es decir que se separa la banda, no en dos
+partes -no importa cuales- sino en dos caras.
+
+Voy a coloreárselas: he aquí una verde, aquí hay una torsión, entonces habrá del otro
+lado.. pero es el verde que reaparece nuevamente allí  y todavía verde si
+
+continúo, aquí será el otro lado, ahí helo ya al verde que reaparece allí. Y luego hay una
+parte que coloreo en rojo que es el anverso del verde.
+
+Entonces es a propósito de la banda que, si les propongo intentar quedamos lo más cerca
+posible del Libro I del Seminario  he podido darme cuenta que la parte que corresponde al
+azul, era lo Real.
+
+Entonces allí al fin de cuentas, es muy torpe presentar las cosas así, porque es
+decididamente la representación. Pero en el Seminario, el Libro I, se encuentra que
+efectivamente es cuestión de lo Real a propósito  -me ha parecido- de la Verneinung de
+Freud, comentada por Hyppolite y es así que relacióno a ello la expresión de Mme. Lefort a
+propósito de dos términos: " ¡El lobo..!  ¡El lobo..!".
+
+Bien, pero entonces volvamos a las máquinas. El Seminario siguiente, el Libro II, desarrolla
+-me parece- esta cuestión de las máquinas, que me ha causado mucha sorpresa volver a
+encontrar bajo ese aspecto, en la medida en que las había estudiado como autómatas
+abstractos con los matemáticos, y luego había tenido la idea de que una máquina podía
+ser, aún cuando no se piense muy a menudo que una polea o un dado sean máquinas. Y
+aquello hacia lo que quería ir, es hablar de máquinas que son un poquito diferentes unas
+de otras, y hablar del nudo y de las cadenas como máquinas.
+
+Entonces, si me atengo por el momento a la época de ese Libro II del Seminario del Dr.
+Lacan, si me atengo a las máquinas matemáticas, las máquinas recursivas que producen
+una repetición de una operación tan largo tiempo como se quiera, que tienen limitaciones y
+que han fracasado en rendir cuenta de los lenguajes naturales, y bien, esas máquinas
+tienen una cabeza de lectura o de escritura, y bien, creo que no es necesario preocuparse
+excesivamente de la cabeza -o únicamente.
+
+Los matemáticos y los lógicos, el problema que se han planteado con esa cabeza, es
+saber si ella pasaba a diferentes estados. Uno llama a eso los estados de la máquina y
+anota S1, S2 ,etc ... Ahora bien, me ha servido mucho como analogía en principio, seguir
+el programa, la gramática de esa cabeza. Pero muy rápidamente he sido conducido a
+desdoblar esa cabeza, y ahora me doy cuenta perfectamente que lo que hay frente a la
+cabeza es lo que se llama la banda-máquina- (bande-machine), me doy cuenta
+absolutamente que es necesario ocuparse de la banda.
+
+Unicamente las bandas en las máquinas de Moebius, no precisamente de  Moebius, sino
+de Turing, no tienen  torsión, es decir que son máquinas que son forzosamente lineales y,
+con esas máquinas, jamás se llega a hacerles hacer otra cosa que lo que ellas saben
+
+hacer, sino que encuentran muy pronto molestias, un límite, es decir que el límite se
+encuentra del lado de lo infinito, es decir que es necesario empalmar, para rendir cuenta
+de los lenguajes naturales, parece, una infinidad de máquinas, unas junto a otras, para
+lograr hacerles hacer ¿qué?.
+
+Uno podría preguntárselo, pero del lado de la banda, hay que interesarse por la banda
+como máquina, y es ya una etapa como aquella que dibujé allí. Y ven bien que no es
+suficiente mostrarlo con un sólo dibujo, es necesario transformar, es necesario hacer
+funcionar a esa máquina. Es una etapa de las máquinas.
+
+Y me parece que con eso se pueden hacer ya bastantes cosas. Entonces, como me
+intereso seriamente en esa banda con sus torsiones y sus agujeros, voy a dibujar otra
+presentación de esa banda con un agujero; y mostrarles una pequeña maquinación
+bastante sorprendente; pero en fin, antes los dos términos, dado que es muy largo hacer
+los dibujos intermedios y es todo un ejercicio.
+
+Entonces se trata, por un lado de esa banda sobre la cual abro un agujero. Si abro un
+agujero aquí y extiendo ese agujero hasta prolongar los bordes de ese agujero, obtengo
+aquello. Voy a dibujarlo aquí de un modo bastante grosero, es decir que hago hacer al
+borde del agujero un rodeo en torno del agujero central, y voy a volver a poner la parte
+azul. Helo aquí
+
+Y  bien , esa figura, sobre la cual es posible trasladar el rojo y el verde, se encuentra que
+esa figura es lo que se llama una encrucijada (carrefour) de banda. Y con la encrucijada de
+
+banda, si se corta la parte azul que he coloreado, se obtendrá una encrucijada de banda
+dos veces hendida y que voy a enderezar.
+
+Entonces esos objetos que dibujo tienen propiedades y se encuentra que, cuando leo,
+intento beber en el conjunto de las figuras de un cierto número de objetos que he dibujado
+ya, intento beber dentro y ver si lo que leo da algo, responde o resuena con los dibujos y
+los problemas que aquí son problemas de superficies.
+
+Ahora bien , eso no marcha jamás demasiado  tiempo; eso, creo que es una constante,
+una constante de esa forma de hacer que es que se llega cada vez a un momento en que
+las cosas parecen insuficientes. Pero lo que quisiera intentar decir es que hay un salto,
+dado que ya se comenzó a hacer marchar otra máquina cuando se abandona un cierto
+tipo  de máquina.
+
+Y no es necesario el buscar llevarlas al extremo, es decir al extremo, es decir a ninguna
+parte. Por ejemplo, voy a mostrarles sobre esa figura, está allí ya el dibujo de los bordes y
+puedo interesarme en los bordes. Ahora bien, ¿qué es lo que esos bordes quieren darme
+?.
+
+Ellos quieren darme una cadena. ¿Y cómo es la cadena de los bordes de esa superficie?
+Y bien, veo aquí que hay un agujero. Ahora bien el agujero, si se razona sobre el agujero,
+el borde del agujero, puede uno imaginarse muy bien que él es independiente, totalmente
+independiente de los otros bordes que están sobre esa superficie, dado que se ve bien
+aquí que es independiente de la parte azul y del otro borde exterior rojo. Aquí se ve bien
+que el borde de ese agujero negro es totalmente independiente.
+
+Entonces intento hacer así monstración (monstration) de un camino que fracasa y
+recomienza sucesivamente... En el Libro II, donde es cuestión de máquinas, a propósito
+del Seminario, intenté aplicar esa máquina, es decir ésta, esta encrucijada de banda, al
+sueño que tiene Freud a propósito de Irma y del cual parte el Dr. Lacan.
+
+Entonces efectivamente sitúo el movimiento del sueño y me doy cuenta que efectivamente
+en el comentario se puede seguir muy precisamente a Freud que aparta, se hace a un
+lado con Irma.
+
+Entonces parte, en lugar de quedar sobre la banda allí, que es atravesada por la parte
+azul, toma prestado un enlace aquí -esquema II- decir que en la encrucijada va a apartarse
+del trayecto normal de la banda azul. Y ustedes ven que va a ser arrastrado para pasar
+bajo la banda.
+
+Ahora bien, es en ése momento que ve la boca abierta de Irma, y la observación que era
+hecha en el Seminario, era que en ese momento habría debido despertarse, pero no se
+despierta. Entonces ¿qué es lo que me he planteado como cuestión ? Me he dicho ¿qué
+es lo que hace que no se despierte ? Y trabajando esas bandas por un lado, y soñando
+también, llegué a situar el despertar del lado de la torsión, es decir que parecería que en
+ese dibujo Freud no encontró torsión.
+
+Entonces lo que quería mostrarles, era de qué modo, si se corta según sus tres bordes a
+esa banda que voy a terminar de colorear, si se corta esa banda, se puede lograr
+presentarla así, se puede lograr precentarla así sin torsión.
+
+Esa pequeña pastilla no está anudada. En consecuencia, puedo en cambio dibujar la parte
+azul y la parte roja; la parte azul, eso hará un ocho interior sobre el cual viene a anudarse
+en rojo una consistencia; la parte azul, es el borde de la banda de moebius que está
+trazado sobre la banda de moebius y el borde del agujero es un círculo negro.
+
+Es decir que, ustedes imaginen la complejidad para mostrar eso directamente por
+transformaciones continuas. Entonces es allí que he sido conducido a hacer un poquito de
+matemáticas. Lo que entiendo por hacer matemáticas en este momento, es buscar medios
+intermediarios que me permitan justificar esa transformación que he encontrado, dado que
+
+trabajaba con esos objetos.
+
+Entonces achuro la banda completamente, ya no hay más torsión y se trata de una
+verdadera espiral. Ahora bien, me parece en consecuencia que todo eso tiene mucho que
+ver con los problemas del análisis, es decir que esa espiral sin torsión, digo de inmediato
+que creo no que sea una psicosis, diría que eso tiene algo que es del orden del análisis, es
+un primer esquema que he encontrado bastante evocador en el Libro I del Seminario, en el
+curso de la última reunión en que el Dr. Lacan nos propuso un esquema del análisis que
+data de esa época del Libro I del Seminario.
+
+Entonces ven la cuestión que se elabora, es que hay una parte de ilustración, hay una
+parte matemática que preservo y que en mi opinión no es indispensable desarrollar de otro
+modo, y voy a intentar explicarme sobre eso hablando justamente del Libro XI que, él,
+retama en mi opinión -en fin tal como lo he leído- el Libro I.
+
+Me ha parecido que era un desarrollo análogo, pues es cuestión en ese libro enormemente
+del matema, de escrituras matemáticas que corresponden pues a otro orden que lo que
+tiempo atrás decía Nasio, que no es topológico, pero de inmediato hablando de lógica con
+el cero de Frege, esas cosas efectivamente están muy presentes, esas diferentes formas
+de abordar una cuestión, si se quiere atenerse a ello, ya sea con bandas, ya sea con
+escrituras. Y es en torno de esos términos que nosotros giramos
+
+Y bien, diría que el Libro XI en el cual hay muchos matemos, que sorprenden a los
+matemáticos dado que no comprenden nada de eso, es necesario ser un poco lógico para
+seguir aquello, y creo que con las cadenas y los nudos se llega particularmente bien a
+plegarse a ello.
+
+Entonces es debido a eso que voy a saltar al Libro XX que, me parece extremadamente
+denso, muy conciso, pero en el cual se trata de esa falla compacta, que allí los
+matemáticos pueden leer y reconocer la definición totalmente correcta de lo que
+conocemos como compacidad, y creo que se puede reenviar esa falla compacta a lo que
+se obtiene de eso, darse cuenta que por ejemplo ella reenvío al Seminario XI, si se lo lee,
+en el momento en que justamente la red del significante es presentada en el capítulo
+justamente anterior que se llama "El inconsciente freudiano" y don de Lacan, luego de
+haber hablado de Lévi-Strauss y del "Pensamiento salvaje ", dice que hay algo un poquito
+diferente del pensamiento mágico, es la discontinuidad.
+
+Entonces eso debe hacer reír aún más a los matemáticos, la discontinuidad en ese
+momento, dado que la topología se define justamente por funciones continuas. Pues esto
+puede parecer extremadamente difícil y no obstante pienso, en el plano de la enseñanza
+de Lacan, que debe dibujarse, evitar justamente las matemáticas en tanto que práctica de
+la escritura, ya que los nudos y las cadenas aportan justamente algo y que es necesario
+diferenciar de las superficies que he dibujado aquí en el pizarrón, las cuales son máquinas
+aún sumarias respecto de las cadenas que son máquinas -diría- más consistentes, que se
+pueden practicar muy simplemente, así como los dados son máquinas: se pueden echar
+los dados, se pueden también echar las cadenas -borromeanas o no- por tierra,
+recogerlos, retomarlos.
+
+Ahora bien, soy de la opinión que dibujarlos, cuando se llega a dibujarlos, produce
+tensiones de estructura que pueden ser mejor seguidas que con la manipulación del
+modelo físico. Y llego por ah! a discutir ese término de modelo, dado que, si evoco esas
+máquinas por un lado y las matemáticas por otro, es un criterio poder construir en
+matemáticas lo que se llama modelos.
+
+Y allí digo que no se trata de modelos dado que finalmente dibujo -aquí incluso dibujé
+bastante torpemente-, pero les propondría debido a ello justamente el hacho siguiente: no
+se trata de modelos dado que el Dr. Lacan ha planteado el trabajo sobre las escrituras de
+los matemos hasta el punto -en  Encore - de producirnos algo -no lo dice tal vez en ese
+Seminario, sino un poco más tarde- que algún otro había ya señalado y que se trata en la
+ocación del "No todo" (Pas-tous).
+
+Ahora bien, efectivamente si se estudian las matemáticas, es decir la cuestión de la teoría
+de los modelos, de la teoría de los con juntos en el lenguaje del calculo de predicados, no
+se comprende nada del "No-todo", no se lo descubre jamás dado que todo el asunto está
+hecho para que justamente con la tesa de Hilbert Las cosas no aparezcan. En
+consecuencia es necesario tener otra idea de lo que se busca para encontrar "No-todo" en
+la teoría de los conjuntos y en el cálculo de predicados.
+
+Pero está perfectamente articulado y es con ese argumento que se llega a producir algo.
+Ahora bien digo que luego, en el Seminario XX, luego de haber articulado precisamente a
+propósito del matema el límite por encima del cual el matemático que hace el cálculo de
+predicados, no está obligado a saltar, y bien, se encuentran las cadenas, es decir se ,
+vuelve  a las máquinas, se dejan esos modelos y la teoría de los conjuntos, incluso más
+mecanizada, y se vuelve a las máquinas mucho más simples. Y son esas máquinas mucho
+más simples las que me parecen tener un interés en ser practicadas.
+
+Entonces diría: ¿qué es lo que hay de particular con esas cadenas, para terminar ? Para
+retamar la cuestión que Nasio plateó con la cuestión de lo Uno y del Otro, diría, para
+responder también a esa cuestión de la representación de la representación o de la Nada,
+que, si trazo una cadena de cuatro, si trazo una cadena borromeana de cuatro, y bien, hay
+tres círculos -y eso el Dr. Lacan lo dice muy bién en los seminarios que han aparecido en
+Ornicar?- hay tres círculos que voy a dibujar, uno en azul como en la figura precedente, es
+decir este, otro en rojo y un tercero en verde.
+
+He aquí como diría que ese efecto de nodalidad -he aquí como lo veo o como lo digo- ese
+efecto de modalidad permite, en mi opinión, hacer jugar algo que no es representable y
+que no puede ser agotado por ninguna máquina, es decir que es una máquina, pero en
+cambio es una maquina en sí misma que se practica, es decir que está al alcance de la
+mano y que es -en mi opinión- algo como, para evocar el pasaje en el Seminario en que
+por primera vez aparece la modalidad, es algo como el tiro al arco (tir a l'arc), es decir
+-tomo esa referencia en el Libro XI, el Dr. Lacan ha presentado la pulsión en esos términos
+haciendo ese dibujo a pro pósito de un borde- y bien, es el circuito de ida y vuelta de la
+pulsión que contornea al "a".
+
+Si se corta uno de los tres que están coloreados, quedando el cuarto negro, los otros dos
+coloreados quedan libres, pues están anuda dos... ellos presentan alguna analogía con la
+estructura borromeana, ea decir si se corta uno de los tres, cualquiera de los tres, los otros
+dos quedan libres.
+
+Ahora bien, ¿qué es lo que ocurre en la estructura borromeana ? Se encuentra que el
+cuarto está implícito, dice Lacan en alguna parte, luego  en los seminarios que siguen, el
+cuarto está implícito, y bien, la cuestión es saber lo que sostiene a los tres.
+
+Es la primera aparición de la modalidad en los dibujos del Dr. Lacan, Observen de qué
+modo he quedado sorprendido al encontrar otro dibujo que -jamás es comentado- que
+presenta exactamente ese borde y ese circuito.
+
+Cada uno de los tres sostiene a los tres, cada uno de los tres sostiene a los otros dos -se
+puede decir- pero se puede incluso decir que sostiene a los tres. Pero nada -pero
+entonces ¿es que se cae en la mística?- nada, pero es una nada que cuenta, es decir un
+vacío, dado que no es cuestión de representarlo aquí por un cuarto. Aquí, diría que el
+cuarto está explícito. Aquí el cuarto está explícito, lo llamo "e", aquí, ¿quién es el que
+sostiene a los tres? Es la estructura borromeana quien realiza eso, quien los sostiene, es
+una nada que cuenta.
+
+Aquí se trata todavía de una cadena de tres con una consistencia que pasa por un
+agujero, en fin que considero como un agujero, y que se encuentra ser una cadena
+borromeana. Ahora bien, quisiera decir que el recurso a esas figuras, la cuestión que me
+planteo , es, a propósito justamente ya sea de la idea de enseñar o de poder discutir, es:
+
+¿qué tipo exactamente de aplicación es necesario efectuar para lograr hacer de eso algo?
+
+Pues bien, esto ha sido bastante difícil...¡
+
+Es decir que me parece que efectivamente allí -jamás me he guiado como no sea allí
+arriba había algo que jugaba en el texto de los seminarios, es decir que el Dr. Lacan
+escribía o hablaba - es así que intitularía de buena gana a eso "máquina de escribir", dado
+que da finalmente algo escrito- y bien, hablaba, decimos, de una manera material y
+consistente. Que haya logrado desarrollar sus diferentes máquina  hasta encontrar la
+cadena borromeana que ahora... que puede fabricarse ¿para qué ?.
+
+Para funcionar, para funcionar y en ese momento, con esa máquina que -parece- cuando
+se la practica da efectos, sobre todo asegura -diría- Una gran consistencia material al
+discurso, es decir que ella permite hacer etapas en la lectura como en la escritura por un
+lado -y eso lo tomo en un sentido muy amplio- ella permite hacer recorridos, pequeños
+recorridos maquinales (machiniques) que encallan (échouent).
+
+Pero es exactamente como en la interpretación de un chiste, me parece, es decir que
+cuando no se ha agotado la estructura, cuando se ha hecho funcionar el análisis de un
+chiste, no se ha agotado, sino que se tiene de un cierto modo la impresión de que se ha
+apagado, deteriorado lo brillante de esa lámpara que es el chiste.
+
+Y bien, con la estructura aquí en presencia, pueden hacer funcionar, pueden trabajar las
+cadenas, pero no agotarán jamás, jamás dirán cuál es en la ocasión en la cadena de tres y
+si no se trata de representarla, y no creo que eso sea nada dado que hace sostener las
+cadenas, y que ustedes se encuentren confrontados con la materialidad de la cadena.
+
+Pues allí lo que me parece importante, es que con el último de esos seminarios pues,
+cuando se alcanza la modalidad lo que reconozco como tal, y bien, no es cuestión de
+continuar en un movimiento infinito de constitución de máquina, dado que allí se encuentra
+una máquina que no se agota, me parece, que está en el espacio, estructurando el
+espacio de tal manera que no se agota y no puede agotar el espacio.
+
+Entonces todas las etapas precedentes, era esa estructura que reflejaba, que hacía
+rebotar las diferentes máquinas que era necesario hacer funcionar. Y lo que eso nos
+enseña, es que es necesario hacerlas marchar, es decir que no se trata simplemente de
+observar cómo se puede lograr de ellas aprender algo.
+
+Entonces del lado de la escritura matemática, yo, debo decir que la he practicado muy
+cabalísticamente hasta el punto de leer a Bourbaki, es decir para terminar, diría que hay
+una torsión en los escritos matemáticos muy difícil, me parece que los espacios laminados
+(feuilletés) a los cuales tú hacías referencia, es muy difícil, es inimaginable incluso, pero no
+creo que se tenga una mejor garantía de la estructura.
+
+Del lado de una cosa que puede ser matemáticamente inscrita en el cálculo de predicados,
+si se lee la cuestión del "No-todo" tal como Lacan la articula en el Seminario "Encore", se
+ve que incluso sobre el cálculo de predicados -allí está la cuestión del modelo- los
+espacios laminados, no es necesario recaer en ellos en tanto que modelo,
+
+Final del Seminario 26
+
+1 (Ventana-emergente - Popup)
+élève  : discípulo, alumno.
+élever: elevar, alzar, levantar.
+
+Notas finales
+
+2 (Ventana-emergente - Popup)
+"Cahíers pour l'analyse", n° 1-2, p.39-51, Paris, 1966
+3 (Ventana-emergente - Popup)
+La superficie de Riemann o estructura de variedad analítica compleja es una de las fuentes comunes
+a la teoría de las funciones algebraicas y a la topología. Una de las propiedades, que puede
+particularmente interesarnos en el manejo de los objetos topológicos introducidos por Lacan, es la
+orientabilidad de la superficie de Riemann. Inversamente, toda superficie cerrada orientable es
+homeomorfa a una superficie de Riemann, es el caso de la esfera, del toro y del toro agujereado
+-con p agujero  -. Para esa última observación, se puede consultar sin demasiada dificultad el II°
+capítulo de G.SPRINGER , "INTRODUCTION TO RIEMANN SURFACES", Reading, 1951.
+4 (Ventana-emergente - Popup)
+Es interesante notar que ese descubrimiento de Riemann está en estrecha dependencia con su
+teoría de las multiplicidades -muy marcada por la filosofía de Herbart. Cf. la obra de B.RUSSEL,
+"FONDEMENTS DE LA  GEOMETRIE" , Gauthier-Villars, 1901.
+
+

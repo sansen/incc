@@ -1,0 +1,11 @@
+#/usr/bin/bash
+
+#shopt -s nullglob
+#find -name "* *" -type f | rename 's/ /_/g'
+for f in *.pdf
+do
+    echo "Removing password for pdf file - $f"
+    gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile="$f.output" -c .setpdfwrite -f $f
+    pdf2txt -W 4 -o "$f.txt" "$f.output"
+    #pdftk "$f" output "output.$f" user_pw "YOURPASSWORD-HERE"
+done
