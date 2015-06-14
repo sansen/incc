@@ -1,0 +1,1120 @@
+ 
+
+ 
+
+ 
+El Análisis Operacional De Los Términos 
+Psicol ógicos 
+B. F. Skinner 
+
+(Publicado en Psychological Review, 1945, 52, 270-277. El simposio sobre 
+operacionismo realizado en septiembre de 1945. y patrocinado por esa publicaci ón, 
+fue sugerido por Edwin G. Boring, quien propuso once preguntas que los 
+participantes deb ían formularse a s í mismos. En esta versi ón se han omitido varias 
+referencias a tales preguntas y otras han sido reemplazadas por breves 
+acotaciones.) 
+
+ 
+
+ 
+
+«¿Es el operacionismo algo más que una acentuaci ón renovada y 
+refinada del método experimental (según lo entend ía ya Galileo, por no 
+decir incluso Arqu ímedes), es decir, una formulaci ón del empirismo y 
+pragmatismo cient ífico moderno (especialmente de la variedad Peirce-
+Dewey), sobre todo de criterios de significaci ón factual y validez 
+emp írica?» Una respuesta a esta pregunta definirá la postura a adoptar 
+en lo que sigue a continuaci ón. El operacionismo no se mira como una 
+nueva teor ía o un modo de definici ón. La literatura ha puesto de relieve 
+ciertos aspectos cr íticos o descuidados hasta ahora, pero no ha 
+descubierto ningún nuevo 
+ y ninguna debiera 
+tipo de operaci ón,
+diferenciarse. No hay motivos para restringir el análisis operacional a 
+constructos de orden superior; el principio es válido para todas las 
+definiciones. Esto significa que debemos interpretar una definici ón 
+operacional para cada término, a menos que nos sintamos dispuestos a 
+adoptar el uso vago de lo vernáculo.  
+
+Puede definirse el operacionismo como la práctica de hablar acerca de: 
+1) las propias observaciones, 2) los procedimientos manipulativos y de 
+cálculo involucrados al hacerlas, 3) los pasos l ógicos y matemáticos que 
+intervienen entre las afirmaciones primeras y las últimas, y 4) nada 
+más. Hasta ahora, la principal contribuci ón ha procedido de la cuarta 
+provisi ón y, al igual que ella, es negativa. Hemos aprendido c ómo 
+evitar perturbadoras referencias demostrando que existen artefactos 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+que cabe relacionar de una u otra manera con la historia, la filosof ía, la 
+ling ü
+ística, etc. No se han realizado avances positivos importantes en 
+relaci ón con 
+tres primeras provisiones, debido a que el 
+las 
+operacionismo no cuenta con ninguna buena definici ón de una 
+definici ón, ya sea operacional o de otro tipo. No ha desarrollado una 
+formulaci ón satisfactoria de la conducta verbal efectiva del cient ífico.  
+
+escritores 
+de 
+la mayor ía 
+que 
+igual 
+al 
+operacionalista, 
+El 
+ístico y semántico, se 
+contemporáneos en el campo del análisis ling ü
+encuentra en 
+la barrera entre 
+las 
+teor ías de 
+referencia de 
+«correspondencia» l ógica y las formulaciones emp íricas del lenguaje en 
+uso. No ha progresado a través de la mezcla de términos l ógicos y 
+populares que normalmente se encuentran en las discusiones casuales 
+e incluso supuestamente técnicas del método cient ífico o de la teor ía 
+del conocimiento (por ejemplo, la reciente obra de Bertrand Russell An 
+inquiry into meaning and truth). Definici ón es un término clave, pero no 
+está rigurosamente definido. La aseveraci ón original de Bridgman de 
+que «el concepto es sin ónimo del correspondiente conjunto de 
+operaciones» no puede tomarse al pie de la letra v tampoco se tiene 
+una afirmaci ón igualmente expl ícita, pero satisfactoria. con respecto a 
+la relaci ón.
+ En lugar de ello, surgen unas cuantas expresiones vagas 
+que se repiten con tediosa regularidad siempre que se menciona esta 
+relaci ón. Se nos dice que hay que definir un concepto «de acuerdo con» 
+ciertas operaciones, que las proposiciones han de estar «basadas en» 
+operaciones, que un término denota algo únicamente cuando existen 
+«criterios concretos en cuanto a su aplicabilidad», que el operacionismo 
+consiste en «referir cualquier concepto para su definici ón 
+a... 
+operaciones concretas...», etc. Podemos aceptar expresiones de esta 
+suerte como bosquejos de un programa, pero no aportan un esquema 
+general de definici ón y mucho menos una afirmaci ón expl ícita de la 
+re concepto y operaci ón.  
+relaci ón ent
+
+La debilidad de las actuales teor ías del lenguaje puede atribuirse al 
+hecho de que sigile todav ía incompleta una concepci ón objetiva de la 
+conducta humana. La doctrina de que las palabras se emplean para 
+expresar o transmitir unos significados sustituye simplemente «la idea» 
+por «el significado» (con la esperanza de que los significados, de una 
+forma u otra. surjan de debajo de la piel) y es incompatible con las 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+concepciones psicol ógicas modernas del organismo. Los intentos de 
+obtener una funci ón simb ólica del principio del condicionamiento (o 
+asociaci ón) se han caracterizado por un análisis muy superficial. 
+Simplemente no es verdad que un organismo reaccione ante un signo 
+«como lo har ía ante el objeto que suplanta el signo». 1 Solamente en 
+un área muy limitada (sobre todo en el caso de respuestas vegetativas) 
+podrá considerarse e! signo como un simple est ímulo sustituto en el 
+sentido pavloviano. La l ógica moderna, como formalizaci ón de lenguas 
+«reales», conserva y ampl ía esta teor ía dualista de1 significado y 
+apenas si atraerá al psic ólogo, que reconoce su propia responsabilidad 
+al dar un testimonio de conducta verbal.  
+
+No es intenci ón m ía intentar aqu í una formulaci ón más adecuada. La 
+revisi ón fundamental es demasiado profunda para que pueda hacerse 
+aprisa y corriendo. Con 
+todo, quisiera 
+tratar de aportar una 
+contribuci ón pequeña, pero positiva, a este simposio a través de la 
+consideraci ón de unas cuantas cuestiones que surgen en relaci ón con la 
+definici ón operacional de los términos psicol ógicos.
+ Una gran parte del 
+material que sigue a continuaci ón está adaptado de una obra mucho 
+más extensa ahora en preparaci ón, cala que el trasfondo necesario está 
+elaborado con mucha mayor atenci ón.  
+
+La postura operacional, pese a sus deficiencias, es buena en todas las 
+ciencias, pero especialmente en psicolog ía debido a la presencia en este 
+campo de un amplio vocabulario de origen antiguo y no cient ífico. No es 
+de extrañar que el amplio movimiento emp írico dentro de la filosof ía de 
+la ciencia, que Stevens demostr ó
+ era el 
+tel ón de 
+fondo del 
+operacionismo, tuviera una vigorosa y pronta representaci ón en el 
+campo de la psicolog ía, es decir, el conductismo. A pesar de las 
+diferencias que Stevens alega haber encontrado, el conductismo  —al 
+menos por lo que respecta a muchos conductistas — no ha sido más que 
+los conceptos mentalistas 
+un cumplido análisis operacional de 
+tradicionales. Podemos no estar de acuerdo con algunas de 
+las 
+respuestas  —ta les como la disposici ón de imágenes de Watson —
+, pero 
+las preguntas formuladas por el conductismo fueron estrictamente 
+operacionales en esp íritu. Tampoco puedo estar de acuerdo con 
+Stevens acerca de que el conductismo norteamericano 
+fuera 
+«primitivo». Los primeros trabajos sobre el problema de la conciencia 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+realizados por Watson, Weiss, Tolman, Hunter, Lashley y otros muchos, 
+no eran únicamente ejemplos extraordinariamente sofisticados de 
+indagaci ón operacional, sino que. además, demostraban la voluntad de 
+ocuparse de un campo más amplio de fen ómenos que los actuales 
+enfoques más perfeccionados, en especial los ofrecidos por los l ógicos 
+(por ejemplo, Carnap), 
+interesados en un vocabulario cient ífico 
+unificado. Pero e! conductismo, además, no lleg ó a aportar una decisiva 
+contribuci ón positiva y, por el mismo motivo, nunca lleg ó
+ a completar 
+formulaci ón aceptable del «informe verbal». El concepto de 
+una 
+conducta que desarroll ó
+ no 
+lleg ó
+ nunca a abarcar de manera 
+convincente el «uso de términos subjetivos».  
+
+Al tratar de términos, conceptos, constructos, etc., se tiene una gran 
+ventaja, especialmente en la forma en que se observan, es decir, como 
+respuestas verbales. No existe peligro alguno, pues, al incluir en el 
+concepto aquel aspecto o parte de la naturaleza que deslinda. (Algunas 
+de las cuestiones actuales parecen confundir concepto con referente; 
+por lo menos parecen hacerse triviales cuando, para hacer menos 
+probable la mezcla, el concepto o constructo es sustituido por el 
+término.) Los significados, los contenidos y las referencias figuran entre 
+los determinadores de la respuesta, no entre las propiedades. La 
+longitud?» ser ía contestada de manera más 
+pregunta: «¿Qué es 
+satisfactoria enumerando 
+las circunstancias en que se emite 
+la 
+respuesta «longitud» o, mejor aún, dando una descripci ón general de 
+tales circunstancias. Si se revelan dos conjuntos totalmente separados 
+de circunstancias hay entonces dos respuestas que tienen la forma 
+«longitud», ya que una clase de respuesta verbal no está definida 
+solamente por la forma fonética, sino por sus relaciones funcionales. 
+Tal cosa se verifica aunque 
+los dos conjuntos se encuentren 
+íntimamente conectados. Las dos respuestas no están controladas por 
+los mismos est ímulos, aunque esté claramente demostrado que los 
+diferentes est ímulos surgen de la misma «cosa».  
+
+Lo que queremos saber en el caso de muchos términos psicol ógicos 
+tradicionales es, en primer 
+las condiciones estimulantes 
+lugar, 
+espec íficas en que se emiten (esto corresponde a «encontrar los 
+referentes»), y, en segundo lugar (y esto es una pregunta sistemática 
+mucho más importante), por qué cada respuesta está controlada por su 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+condici ón correspondiente. Esta no es necesariamente una cuesti ón 
+genética. El individuo adquiere el lenguaje de la sociedad; pero la 
+acci ón reforzante de la comunidad verbal sigue desempeñando una 
+importante funci ón por lo que respecta a mantener las relaciones 
+espec íficas entre respuestas y est ímulos, esenciales para el adecuado 
+funcionamiento de la conducta verbal. La forma de adquirir el lenguaje 
+es, pues, s ó
+lo una parte de un problema mucho más amplio.  
+
+Se pueden generalizar las condiciones responsables de la relaci ón 
+«semántica» estándar entre una respuesta verbal y un est ímulo 
+particular sin entrar en los detalles de la teor ía del reforzamiento. Hay 
+tres 
+respuesta y un 
+importantes: un est ímulo, una 
+términos 
+reforzamiento, suministrados por la comunidad verbal. (Todos ellos 
+necesitan definiciones más cuidadosas que las implicadas en el uso 
+normal, pero puede hacerse la argumentaci ón siguiente sin divagar a 
+este prop ósito.)
+ Las interrelaciones significativas entre estos términos 
+pueden expresarse diciendo que la comunidad refuerza la respuesta 
+s ólo cuando es emitida en presencia del est ímulo. El reforzamiento de 
+la respuesta «rojo», por ejemplo, es contingente a la presencia de un 
+objeto rojo. (La contingencia no necesita ser variable.) Un objeto rojo 
+se convierte entonces en est ímulo discriminativo, en «ocasi ón» para la 
+apropiada emisi ón de la respuesta «rojo».  
+
+Este esquema presupone que el est ímulo actúa tanto sobre el que habla 
+como sobre la comunidad reforzante; de otro modo, la adecuada 
+contingencia no puede ser mantenida por la comunidad. Poro esta 
+provisi ón no aparece en el caso de muchos términos «subjetivos», que 
+dan la impresi ón de ser respuestas a est ímulos privados. El problema 
+de los términos subjetivos no coincide exactamente con el de est ímulos 
+privados, si bien existe una estrecha conexi ón. Debemos conocer las 
+caracter ísticas de las respuestas verbales a los est ímulos privados para 
+enfocar el análisis operacional del término subjetivo.  
+
+La respuesta «Me duele la muela» se encuentra en parte bajo el control 
+de un estado de cosas a las que s ólo el que habla es capaz de 
+reaccionar, ya que nadie más llega a establecer el contacto preciso con 
+la muela en cuesti ón.
+ Nada hay de misterioso ni de metaf ísico en esto; 
+el hecho escueto es que cada persona que habla posee un mundo de 
+est ímulos, pequeño pero 
+importante, que 
+le es particular. Que 
+5 
+ 
+
+ 
+
+ 
+
+ 
+sepamos, sus reacciones ante el mismo son como sus reacciones ante 
+los hechos externos. No obstante, la falta de accesibilidad origina dos 
+problemas. El primer obstáculo es que no nos es dado explicar, como 
+en el caso de los est ímulos públicos, la respuesta verbal indicando un 
+est ímulo controlador. Nuestra práctica es inferir el hecho privado, pero 
+ello se opone a la direcci ón de la indagaci ón en una ciencia de la 
+conducta en que, entre otras cosas, hemos de predecir la respuesta a 
+través de un conocimiento independiente del est ímulo. Con frecuencia 
+se supone que se encontrará una soluci ón en unas técnicas fisiol ógicas 
+mejoradas. Siempre que sea posible decir qué condiciones dentro del 
+organismo controlan la respuesta «Estoy deprimido», por ejemplo, y 
+producir dichas condiciones a voluntad, será posible una cierta 
+predicci ón y un cierto control caracter ísticos de las respuestas a 
+est ímulos externos. Entretanto debemos contentarnos con una 
+evidencia razonable, por la creencia de que las respuestas a est ímulos 
+públicos y privados son igualmente leg ítimas e iguales en cuanto a su 
+género.  
+
+Pero el problema de los acontecimientos privados no se puede resolver 
+totalmente con la invasi ón instrumental. Aparte de la claridad con que 
+se expongan estos hechos internos en el laboratorio, subsiste el hecho 
+de que en el episodio verbal normal aquéllos son totalmente privados. 
+No hemos resuelto el segundo problema con respecto a la forma en que 
+la comunidad llega a la necesaria contingencia de reforzamiento. 
+¿Cómo se refuerza adecuadamente la respuesta «Dolor de muelas» si 
+el agente reforzante no tiene contacto alguno con la muela? Por 
+supuesto que no se trata de si son posibles las respuestas a est ímulos 
+privados. Se producen con bastante frecuencia y deben ser explicadas. 
+Pero ¿por qué se producen, cuál es su relaci ón con est ímulos 
+consoladores y cuáles, si las hay, son sus caracter ísticas distintivas?  
+
+Existen por lo menos cuatro medios para que una comunidad verbal 
+que no tiene acceso a un est ímulo privado pueda generar una conducta 
+verbal como respuesta al mismo:  
+
+1) No es rigurosamente cierto que los est ímulos que controlan la 
+respuesta deban estar al alcance de 
+la comunidad. Bastará con 
+cualquier acompañamiento razonablemente regular. Considérese, por 
+ejemplo, e1 caso de un ciego que aprendiese los nombres de unos 
+6 
+ 
+
+ 
+
+ 
+
+ 
+objetos colocados en una bandeja a través de un maestro que los 
+identif ícase visualmente. Los re forzamientos se aportan o se retiran de 
+acuerdo con la contingencia entre las respuestas del ciego y los 
+est ímulos visuales del maestro, pero las respuestas están totalmente 
+controladas por est ímulos táctiles. Un sistema verbal satisfactorio es el 
+resultado del hecho de que los est ímulos visuales y táctiles siguen 
+estrechamente conectados.  
+
+Del mismo modo, en el caso de est ímulos privados, se puede enseñar a 
+un niño a decir «Me duele aqu í», en plena coincidencia con el uso de la 
+comunidad, haciendo el reforzamiento contingente a acompañamientos 
+públicos de est ímulos dolorosos (un fuerte golpe, un magullamiento de 
+los tejidos, etc.). La conexi ón entre est ímulos públicos y privados no 
+necesita ser invariable; una respuesta puede condicionarse con un 
+reforzamiento puramente peri ódico e 
+incluso a pesar de una 
+contingencia conflictiva ocasional. La posibilidad de esta conducta está 
+limitada por e! grado de asociaci ón de est ímulos públicos y privados, la 
+cual aportará un reforzamiento concreto que bastará para establecer y 
+mantener una respuesta.  
+
+2) Una base más común para el reforzamiento verbal de una respuesta 
+a un est ímulo privado es la aportada por respuestas colaterales al 
+mismo est ímulo. Aunque un dentista sea capaz a veces de identificar el 
+est ímulo para un dolor de muelas a partir de ciertos acompañamientos 
+públicos como en 1), la respuesta «Dolor de muelas» por lo general se 
+transmite de acuerdo con fas respuestas que son provocadas por el 
+mismo est ímulo, pero que no necesitan ser establecidas por una 
+contingencia ambiental. La comunidad infiere el est ímulo privado no a 
+partir de unos est ímulos públicos que lo acompañan, sino de unas 
+respuestas colaterales, generalmente incondicionadas y por lo menos 
+no verbales (la mano en la mand íbula, ciertas expresiones faciales, 
+gemidos, etc.). La inferencia no siempre es correcta y la exactitud de la 
+referencia vuelve a quedar limitada por el grado de asociaci ón.  
+
+3) Algunas respuestas muy importantes a est ímulos privados son 
+descriptivas de la conducta del que habla. Cuando ésta es manifiesta, la 
+comunidad basa su reforzamiento instruccional en las manifestaciones 
+más evidentes, pero el que habla, posiblemente adquiere la respuesta 
+en conexi ón con una abundancia de est ímulos propioceptivos 
+7 
+ 
+
+ 
+
+ 
+
+ 
+adicionales.  Éste tal vez llegue a un control prácticamente completo, 
+como al describir la propia conducta en la oscuridad. Este ejemplo es 
+muy pr óximo al del ciego; el que habla y la comunidad reaccionan ante 
+est ímulos diferentes, pero  íntimamente asociados.  
+
+Supongamos ahora que una respuesta dada retrocede al nivel de 
+conducta encubierta o simplemente incipiente. ¿Cómo explicaremos el 
+vocabulario que se ocupa de este mundo privado? (El descubrimiento 
+instrumental de conducta encubierta no es tampoco una respuesta, ya 
+que nosotros estamos interesados en c ómo se establecen normalmente 
+las respuestas a est ímulos privados, no instrumentalmente.) Hay dos 
+posibilidades importantes. La respuesta encubierta persistente puede 
+considerarse como un acompañamiento de la manifiesta (acaso parte 
+de la misma), en cuyo caso la respuesta al est ímulo privado se imparte 
+de acuerdo con el est ímulo público aportado por 
+la 
+respuesta 
+manifiesta, como en 1). Por otra parte, la respuesta encubierta puede 
+ser similar a la manifiesta, aunque probablemente menos intensa que 
+ella, proporcionando por ello el mismo est ímulo, aunque en forma 
+disminuida. Tenemos, entonces, una tercera posibilidad: puede emitirse 
+una respuesta en presencia de un est ímulo privado que no tenga 
+concomitantes públicos, siempre que sea ocasionalmente reforzada en 
+presencia del mismo est ímulo que se produce con manifestaciones 
+públicas.  
+
+Los términos que recaen dentro de esta clase son, evidentemente. 
+descriptivos s ólo de conducta, más que de otros estados o hechos 
+internos, ya que la posibilidad de que el mismo est ímulo sea al mismo 
+tiempo público y privado (o, mejor, esté dotado de concomitantes 
+públicos o carezca de ellos) parece surgir del hecho único de que la 
+conducta sea a un tiempo encubierta y manifiesta.  
+
+4} El principio de transferencia o inducci ón del est ímulo aporta una 
+cuarta explicaci ón acerca de c ómo una respuesta a unos est ímulos 
+privados puedo mantenerle por reforzamiento público: Una respuesta 
+adquirida y mantenida en contacto con est ímulos públicos puede ser 
+emitida, a través de la inducci ón, en respuesta a hechos privados. La 
+transferencia no se debe a est ímulos idénticos, como en 3), sino a 
+propiedades coincidentes. As í pues, describimos estados internos con 
+los términos «agitado», «deprimido», «intranquilo», etc., hasta formar 
+8 
+ 
+
+ 
+
+ 
+
+ 
+una larga lista. Las respuestas de esta clase son todas metáforas 
+(abarcando figuras especiales como la metonimia). El término metáfora 
+no se utiliza peyorativamente, sino simplemente para indicar que el 
+reforzamiento diferencial no puede consistir en unas respuestas reales 
+acomodadas al caso privado. Como apunta la etimolog ía, la respuesta 
+es arrastrada a partir del ejemplo público.  
+
+En resumen: una respuesta verbal a un est ímulo privado puede 
+mantenerse en vigor a través de un reforzamiento apropiado basado en 
+concomitantes o consecuencias públicas, como en 1) y 2), o a través de 
+un reforzamiento apropiado concedido a la respuesta cuando ésta se 
+hace a est ímulos públicos, en tanto que el caso privado se produce por 
+inducci ón cuando los est ímulos son s ó
+lo parcialmente similares. Si éstas 
+son las únicas posibilidades (y aqu í se ofrece la lista como exhaustiva), 
+cabe que entendamos entonces por qué los términos que se refieren a 
+hechos privados nunca han formado un vocabulario estable y aceptable 
+de uso razonablemente uniforme. Este hecho hist órico confunde a los 
+partidarios de la «escuela de la correspondencia» del significado. ¿Por 
+qué no es posible asignar nombres a los diferentes elementos de la 
+experiencia privada y proceder después a un discurso efectivo y 
+coherente? La respuesta se basa en el proceso a través del cual «se 
+asignan 
+términos a hechos privados». proceso que acabamos de 
+analizar someramente en términos de reforzamiento de respuestas 
+verbales.  
+
+Ninguna de 
+la 
+las circunstancias que hemos examinado permite 
+aproximaci ón de la referencia a la que, en el caso de est ímulos 
+públicos, se 
+llega por medio de una precisa contingencia de 
+reforzamiento. En 1) y 2), la asociaci ón de hechos públicos y privados 
+puede ser deficiente; los est ímulos abarcados por 3) son de alcance 
+limitado, y la naturaleza metaf órica de aquellos en 4) implica una falta 
+de precisi ón.
+ Por lo tanto, es imposible establecer un vocabulario 
+cient ífico riguroso para uso público, como tampoco el que habla «se 
+conoce a s í mismo» claramente en el sentido de que conocer es 
+identificado con comportarse de manera discriminada. En ausencia de 
+la «crisis» aportada por el reforzamiento diferencial {gran parte del 
+cual es necesariamente verbal), los est ímulos privados no pueden ser 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+analizados. (Esto tiene poca cosa o nada que ver con la disponibilidad o 
+capacidad de los receptores.)  
+
+Las contingencias que hemos revisado dejan también de aportar una 
+comprobaci ón adecuada contra la distorsi ón imaginaria de la relaci ón de 
+referencia (es decir, como en la racionalizaci ón)
+. Las afirmaciones 
+acerca de hechos privados pueden estar bajo el control de los impulsos 
+asociados con sus consecuencias más que con 
+los est ímulos 
+antecedentes. La comunidad se muestra escéptica en cuanto a 
+afirmaciones de esta suerte, y cualquier intento por parte del que habla 
+de comunicarse consigo mismo en relaci ón con su mundo privado 
+(como en la elaboraci ón del sistema psicol ógico) está preñado de 
+autoengaño.  
+
+Una gran parte de la ambig üedad de los términos psicol ógicos surge de 
+la posibilidad de formas de reforzamiento alternativas o múltiples. 
+Considérese, por ejemplo, la respuesta «Tengo hambre». La comunidad 
+puede reforzarla basándose en la historia de ingesti ón, como en 1), o 
+conducta colateral asociada con el hambre, como en 2), o como una 
+descripci ón de conducta con 
+respecto al alimento o est ímulos 
+previamente correlacionados con el alimento, como en 3). Además, el 
+que habla (en ciertos casos) cuenta con el poderoso est ímulo de las 
+molestias del hambre, cosa que es privada, ya que la comunidad no 
+tiene el adecuado contacto con el est ómago de la persona que habla. 
+«Tengo hambre» puede, pues, traducirse de diferentes maneras, como: 
+«No he comido desde hace mucho tiempo» 1), o «Este manjar me hace 
+la boca agua» 2), o «Estoy famélico» 3) (compárese la expresi ón 
+«Ten ía más hambre de lo que pensaba», que describe la ingesti ón de 
+una cantidad de comida extraordinariamente abundante), o bien 
+«Tengo dolores del hambre». Si bien todas estas expresiones pueden 
+tenerse por sin ónimas de «Tengo hambre», de hecho no son sin ónimas 
+entre s í. Es fácil por lo que respecta a sistematizadores psicol ógicos 
+conflictivos citar ejemplos que aboguen en favor o entrenar a personas 
+para que emitan la respuesta «Tengo hambre» en conformidad con un 
+sistema. Con la técnica del bal ón cabr ía condicionar la respuesta verbal 
+exclusivamente ante 
+la estimulaci ón por 
+las contracciones del 
+est ómago. Tal cosa ser ía un ejemplo del caso 1) o 2). O podr ía 
+entrenarse a una persona para que hiciese observaciones agradables 
+
+ 
+
+10 
+
+ 
+
+ 
+
+ 
+acerca de la fuerza de su conducta ingestiva, que podr ía retroceder al 
+nivel encubierto, como en 3). La respuesta «Tengo hambre» describir ía 
+entonces una tendencia a comer, con escasa o ninguna referencia a las 
+contracciones del est ómago. El uso cotidiano refleja un reforzamiento 
+compuesto. Podr ía hacerse un análisis similar de todos los términos 
+descriptivos de la motivaci ón, emoci ón y acci ón en general, incluyendo 
+los actos de ver. o ír, etc., de especial interés aqu í.  
+
+Cuando persisten unas manifestaciones públicas, nunca es patente la 
+medida en que el est ímulo privado se impone. En el caso de un dolor de 
+muelas, sin duda alguna, domina el hecho privado, pero ello se debe a 
+su relativa intensidad y no a ninguna circunstancia de reforzamiento 
+diferencial. En una descripci ón del propio comportamiento, el 
+componente de tipo privado puede tener mucha menor importancia. 
+Una contingencia externa muy estricta tal vez ponga de relieve el 
+componente público, sobre todo cuando la asociaci ón con hechos 
+privados es deficiente. En un 
+vocabulario 
+cient ífico 
+riguroso 
+prácticamente se eliminan los efectos privados. El caso inverso no se 
+mantiene. Es evidente que no hay forma alguna de basar una respuesta 
+totalmente en el aspecto privado de un conjunto de est ímulos. No es 
+posible hacer que un reforzamiento diferencial sea contingente respecto 
+de 
+lo privado. Este hecho es de extraordinaria 
+la propiedad de 
+importancia al evaluar términos psicol ógicos tradicionales.  
+
+La respuesta «rojo» es impartida y mantenida (ya sea casual o 
+profesionalmente) por reforzamientos que son contingentes a una 
+cierta propiedad de est ímulos. Tanto la persona que habla como la 
+comunidad (o el psic ó
+logo) tienen acceso al est ímulo, por lo que la 
+contingencia puede hacerse muy precisa. Nada hay con respecto a la 
+respuesta resultante que confunda a nadie. La mayor parte de la 
+psicof ísica descansa en este s ól
+ido pedestal. No obstante, la postura 
+psicol ógica más antigua era que la persona que habla no informara 
+acerca de una propiedad del est ímulo, sino de un cierto tipo de hecho 
+privado: la sensaci ón de rojo. Tal cosa era considerada como un estadio 
+más tard ío de una serie que se iniciaba con el est ímulo rojo. Se supon ía 
+que el experimentador manipulaba e! hecho privado manipulando el 
+est ímulo. Tal cosa da la impresi ón de ser una distinci ón gratuita, pero 
+en el caso de ciertos sujetos es evidente que podr ía generarse por otros 
+
+ 
+
+11 
+
+ 
+
+ 
+
+ 
+caminos un estadio similar más tard ío (suscitando una «imagen»); de 
+aqu í que la autonom ía de un hecho privado, capaz de evocar la 
+respuesta «rojo» en ausencia de un est ímulo rojo controlable, parec ía 
+quedar probada. Desde luego que una prueba adecuada exige la 
+eliminaci ón de otras posibilidades (esto es, que la respuesta sea 
+generada por los procedimientos que se destinan a generar la imagen).  
+
+La conducta verbal «descriptiva de imágenes» debe quedar explicada 
+en toda ciencia adecuada de la conducta. Las dificultades son las 
+mismas tanto para el conductista como para el subjetivista. Si los 
+hechos privados son ubres, resulta imposible en cualquier caso una 
+descripci ón cient ífica. Si es posible descubrir unas leyes, es posible 
+también llegar a una descripci ón leg ítima de la conducta verbal, con o 
+sin referencia a las imágenes. Lo mismo por lo que respecta a 
+«encontrar los referentes»; el problema que subsiste en cuanto a la 
+manera de mantener tales respuestas en relaci ón con sus referentes es 
+también soluble. La descripci ón de una imagen resulta un ejemplo de 
+una respuesta a un est ímulo privado de la clase (1). Lo que equivale a 
+decir que se establecen unos términos relevantes cuando e) hecho 
+privado acompaña un est ímulo externo controlable, si bien 
+las 
+respuestas se producen en otras ocasiones, acaso en relaci ón con el 
+mismo hecho privado. Ya se han señalado las deficiencias de tal 
+vocabulario.  
+
+Cabe explicar la respuesta «rojo» (cuando menos tan bien como la 
+«experiencia» de 
+rojo) apelando a pasadas circunstancias de 
+reforzamiento. Pero ¿qué decir acerca de expresiones tan corrientes 
+como «Veo rojo» o «Tengo conciencia del rojo? Aqu í «rojo» puede ser 
+una respuesta tanto a un est ímulo público como privado, sin perjuicio 
+para el resto de la expresi ón,
+ pero «ver» y «conciencia» parecen 
+referirse a hechos que por naturaleza o por definici ón son privados. Tal 
+cosa viola el principio de que no es posible que un reforzamiento sea 
+contingente respecto de la calidad privada de un est ímulo. No se puede 
+limitar una referencia hasta un hecho espec íficamente privado a través 
+de ningún método conocido de reforzamiento diferencial.  
+
+La hip ótesis conductista original era, por supuesto, que términos de 
+descripciones 
+esta 
+comportamiento 
+propio 
+del 
+eran 
+suerte 
+(generalmente encubierto). La hip ó
+tesis explica el establecimiento y 
+12 
+ 
+
+ 
+
+ 
+
+ 
+conservaci ón de 
+la aportaci ón de 
+través de 
+términos a 
+los 
+contrapartidas públicas naturales en una conducta manifiesta similar. 
+Los términos son en general de la c íase 3). Una consecuencia de la 
+hip ótesis es que a cada término se le puede dar una definici ón 
+conductual. Con 
+todo, 
+debemos modificar 
+ligeramente 
+la 
+argumentaci ón. Decir «veo rojo» no es reaccionar ante el rojo (ya que 
+esto es un sentido trivial de «ver»), sino ante una reacci ón propia 
+frente al rojo. «Ver» es un término adquirido con respecto al propio 
+comportamiento en el caso de respuestas manifiestas accesibles a la 
+comunidad. Pero, de acuerdo con el actual análisis puede ser evocado 
+en otras ocasiones por medio de cualquier concomitante privado de la 
+visi ón manifiesta. Aqu í hay un punto en que puede deslizarse una visi ón 
+privada no conductual. Pese a que el acompañamiento privado más 
+común ser ía la estimulaci ón que subsiste en un acto encubierto similar, 
+como en 3), podr ía tratarse de algún tipo de estado o circunstancias 
+que adquiere control de la respuesta como en 1) o 2).  
+
+La superioridad de 
+la hip ó
+tesis conductual no es simplemente 
+metodol ógica. El aspecto de ver que es posible definir conductualmente 
+resulta básico para el término como establecido por la comunidad 
+verbal y por ello de lo más efectivo en el discurso público. Una 
+comparaci ón de casos 1) y 3) probar ía también que los términos que 
+retroceden al nivel privado, en cuanto la conducta manifiesta se hace 
+encubierta, poseen una excelente precisi ón de referencia, como ocurre 
+con las respuestas a est ímulos privados.  
+
+tesis complementaria de que ser 
+De ah í se sigue, naturalmente, la hip ó
+consciente, como forma de reaccionar ante el propio comportamiento, 
+es un producto social. La conducta verbal puede distinguirse y definirse 
+convenientemente por el hecho de que 
+las contingencias de 
+reforzamiento son aportadas por otros organismos más que por una 
+acci ón mecánica sobre el medio ambiente. La hip ótesis equivale a decir 
+que, s ólo porque la conducta del individuo es importante para la 
+sociedad, la sociedad a su vez la hace importante para el individuo. El 
+individuo se hace consciente de sus actos s ó
+lo después de que la 
+sociedad ha reforzado respuestas verbales con respecto a su conducta 
+como origen de est ímulos discriminativos. La conducta que hay que 
+describir (la conducta de la cual hay que ser consciente) puede más 
+
+ 
+
+13 
+
+ 
+
+ 
+
+ 
+adelante retroceder al nivel encubierto y (para añadir una dificultad 
+culminante) lo mismo ocurrirá con la respuesta verbal. Se trata de un 
+quiebro ir ónico, dada la historia de la revoluci ón conductista, aquél en 
+que, al desarrollar un vocabulario más efectivo para el análisis de la 
+conducta, ampliarnos también las posibilidades de la conciencia as í 
+definida. La psicolog ía del «otro» no es, después de todo, otra cosa que 
+un enfoque directo del «con ócete a t
+i mismo».  
+
+El principal objetivo de esta disertaci ón ha consistido en definir una 
+definici ón a través de !a consideraci ón de un ejemplo. Para ser 
+coherente. el psic ólogo debe tratar de sus propias prácticas verbales al 
+desarrollar una ciencia emp írica de conducta verbal. Por desgracia, no 
+puede unirse al l ógico cuando define una definici ón como, por ejemplo, 
+una «regla para el uso de un término» (Feigl); debe, por el contrario, 
+dirigirse a las contingencias de reforzamiento que explican la relaci ón 
+funcional entre un término, como respuesta verbal, y un est ímulo dado. 
+Ésta es la «base operacional» para su uso de los términos y no se trata 
+de l ógica sino de ciencia.  
+
+El fil ósofo dirá que esto es un c írculo vicioso. Argumentará que hay que 
+adoptar las reglas de la l ógica para llevar a cabo e interpretar los 
+experimentos exigidos en una ciencia emp írica de la conducta verbal 
+Pero hablar acerca de lo que es hablar no es más circulo vicioso que 
+pensar acerca de lo que es pensar o saber qué es saber. Que esto sea o 
+no auparnos con ayuda de los cordones de las botas, el hecho escueto 
+es que es posible avanzar en un análisis cient ífico de la conducta 
+verbal. Acabaremos por ser capaces de abarcar y acaso de entender 
+nuestra propia conducta verbal como cient íficos. Si resulta después que 
+nuestra postura final en la conducta verbal invalida nuestra estructura 
+cient ífica desde e! punto de vista de la l ógica y valor real, tanto peor 
+para la l ógica, que habrá sido abarcada también por nuestro análisis.  
+
+Se rog ó
+ a los participantes del simposio que hicieran comentarios 
+acerca de todos los trabajos presentados. Dichos comentarios fueron 
+publicados en el mismo número de «Psychological Review». Mi 
+contribuci ón sigue a continuaci ón:  
+
+En el verano de 1930, dos años después de la publicaci ón de Logic of 
+Modern Physics de Bridgman, escrib í un art ículo titulado «El concepto 
+
+ 
+
+14 
+
+ 
+
+ 
+
+ 
+del reflejo en la descripci ón de la conducta». Posteriormente fue 
+presentado como primera mitad de una tesis doctoral, siendo publicado 
+en 1931. Aunque el método general, en especial el enfoque hist órico, 
+proced ía de Science of Mechanics de Mach, en el segundo párrafo 
+reconoc ía yo mi deuda para con Bridgman. Considero que ésta fue la 
+primera publicaci ón sobre psicolog ía que conten ía una referencia a 
+Logic of Modern Physics 2 y constituye el primer análisis expl ícitamente 
+operacional de un concepto psicol ógico.  
+
+Poco después de que 
+terminado el art ículo, me encontré 
+fuera 
+exponiendo una tesis doctoral ante un tribunal de cuyas simpat ías no 
+estaba demasiado seguro. No deseando aguardar hasta que hubiera de 
+incondicional, 
+la rendici ón 
+ser necesaria 
+levanté bandera blanca. 
+Desentendiéndome e 
+ignorando 
+la ética académica, suger í a un 
+miembro del departamento de Harvard que si se dignaban excusarme 
+del examen formulario, el tiempo que de otro modo dedicar ía a la 
+preparaci ón lo emplear ía en un análisis operacional de media docena de 
+términos clave procedentes de la psicolog ía subjetiva. La sugerencia fue 
+acogida con una sorpresa de tal calibre que me fue imposible seguir 
+izando bandera blanca.  
+
+Lo que quiero señalar es que en aquella época 
+ pod ía 
+—1930 —
+considerar un análisis operacional de los términos subjetivos como un 
+mero ejercicio dentro del método cient ífico. Se trataba de un trabajo 
+ingrato, necesitado con urgencia por la psicolog ía tradicional, que yo 
+estaba dispuesto a llevar a cabo como un servicio público o en pago por 
+la remisi ón de unos pecados. Jamás lleg ó
+ a ocurr írseme que el análisis 
+adoptase otra cosa que un único curso o tuviese alguna relaci ón con 
+mis propios prejuicios. El resultado parec ía tan predeterminado como el 
+de un cálculo matemático.  
+
+A pisar del actual simposio, sigo siendo de la misma opini ón. Considero 
+que los datos de una ciencia de la psicolog ía pueden ser definidos o 
+señalados de manera inequ ívoca y que es posible demostrar que un 
+conjunto de conceptos resalta de lo más expeditivo según los cánones 
+usuales de la práctica cient ífica. Sin embargo, en el campo dominado 
+por la psicolog ía subjetiva no se han hecho estas cosas y la pregunta a 
+formular es: ¿Por qué no ha sido as í?  
+
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+La psicolog ía, sola entre las ciencias biol ógicas y sociales, ha pasado 
+por una revoluci ón comparable en muchos aspectos a la que al mismo 
+tiempo estaba desarrollándose en el campo de la f ísica. Desde luego, 
+esta revoluci ón es el conductismo. El primer paso, igual que en la f ísica, 
+consisti ó
+ en una revisi ón de las bases de observaci ón de ciertos 
+conceptos importantes. Pero en la época en que fue publicado el libro 
+de Bridgman la mayor parte de los primeros conductistas, al igual que 
+todos aquellos que reclamábamos una continuidad sistemática, hab ían 
+comenzado a ver que la psicolog ía no exig ía en realidad la redefinici ón 
+de los conceptos subjetivos. La re interpretaci ón de un conjunto 
+establecido de ficciones explicativas no era el camino para aportar las 
+herramientas necesarias entonces para una descripci ón cient ífica de la 
+conducta. El prestigio hist órico estaba fuera de lugar. No hab ía más 
+motivos para buscar un sitio permanente a la «conciencia», «voluntad», 
+«sentimiento», etc., que al «flogisto» o a la «vis anima». Por el 
+contrario, los conceptos redefinidos demostraron ser desmañados e 
+inapropiados y de hecho el watsonianismo prácticamente se estrell ó
+ en 
+su intento de hacer que funcionaran.  
+
+Y as í fue como, mientras los conductistas pod ían haber aplicado el 
+principio de Bridgman a ciertos 
+términos representativos de una 
+psicolog ía mentalista (y tuvieron una gran competencia por lo que 
+respecta a lograrlo), lo que hicieron fue perder todo interés en la 
+cuesti ón.
+ Hubieran también podido dedicar el tiempo a mostrar de qué 
+hablaba un qu ímico del siglo XVIII cuando dec ía que las sustancias 
+metálicas consist ían en una tierra vitrificable amalgamada con flogisto. 
+No hab ía duda que tal afirmaci ón pod ía ser analizada operacionalmente 
+o trasladada a términos modernos o que los términos subjetivos pod ían 
+ser definidos operacionalmente. Pero tales cuestiones s ólo ten ían un 
+interés hist órico. Lo que se deseaba era un conjunto nuevo de 
+conceptos, derivado de un análisis directo de los datos últimamente 
+puestos de relieve, y ello bastaba para absorber todas las energ ías de 
+que dispon ían los conductistas. Además, la motivaci ón del enfant 
+terrible se hab ía esfumado.  
+
+Creo que el departamento de Harvard hubiera sido más feliz de haber 
+aceptado mi ofrecimiento. Lo que surgi ó,
+ en cambio, 
+fue el 
+operacionismo de Boring y de Stevens.  Éste se ha descrito como un 
+
+ 
+
+16 
+
+ 
+
+ 
+
+ 
+intento de seguir la corriente conductista sin demasiado ruido. No estoy 
+de acuerdo. Es un 
+intento de 
+reconocer 
+las más poderosas 
+reivindicaciones del conductismo, imposibles ya de desmentir, pero al 
+propio tiempo de conservar !as viejas ficciones explicativas. Se ha 
+admitido que los datos de la psicolog ía deben ser más conductuales que 
+mentales si la psicolog ía ha de ser un miembro de las Ciencias Unidas, 
+pero 
+la postura adoptada es, simplemente, 
+la del conductismo 
+«metodol ógico». Según esta doctrina, el mundo está dividido en hechos 
+públicos y privados, y la psicolog ía, para cubrir las exigencias de una 
+ciencia, debe limitarse a los primeros. Tal cosa no fue nunca buen 
+conductismo, aunque result ó
+ una postura 
+fácil de exponer y de 
+defender, a la que recurrieron a menudo los propios conductistas. Es 
+poco objetable para el subjetivista, porque le permite conservar «la 
+experiencia» para fines de autoconocimiento «no-fisicalista».  
+
+La postura no es genuinamente operacional porque muestra una 
+renuencia a abandonar las ficciones. Es como decir que, mientras el 
+f ísico debe admitir que se encuentra en la época einsteiniana, es 
+verdad, sin embargo, que el 
+tiempo absoluto newtoniano corre 
+«igualmente sin relaci ón con nada externo». Es una especie de E pur si 
+muove a la inversa. Lo que falta es la atrevida e incitante hip ótesis 
+conductista de que lo que uno observa y aquello de lo que uno habla es 
+siempre el mundo «real» o «f ísico» (o, cuando menos, el mundo de 
+«uno»), y que la experiencia es un constructo hipotético derivado que 
+s ólo hay que entender a través de un análisis de procesos verbales y 
+no, por supuesto, puramente vocales.  
+
+Las dificultades que surgen con motivo de la distinci ón público-privado 
+ocupan un lugar destacado en el presente simposio y puede valer la 
+pena considerar cuatro de entre ellas.  
+
+1) La relaci ón entre los dos conjuntos de términos que se exigen ha 
+demostrado ser ofuscadora. El par que más a menudo se analiza es «la 
+discriminaci ón», (pública) y «la sensaci ón» (privada). ¿Es igual una que 
+la otra o reducible una a la otra, etc.? Parece que una soluci ón 
+satisfactoria ser ía que los términos pertenecen a sistemas conceptuales 
+no necesariamente relacionados según una correspondencia de punto 
+por punto. No se trata de igualarlos a ellos ni a sus referentes, ni de 
+
+ 
+
+17 
+
+ 
+
+ 
+
+ 
+reducir uno a otro sino que es cuesti ón de traducci ón y un único 
+término de un conjunto puede exigir un párrafo del otro.  
+
+2) La distinci ón público-privado pone de relieve la árida filosof ía de «la 
+verdad por consenso». Lo público, de hecho, resulta ser simplemente 
+aquello sobre lo cual es posible estar de acuerdo por ser común a dos o 
+más participantes en dicho acuerdo. Esto no es parte esencial del 
+operacionismo; el operacionismo, por el contrario, nos permite 
+prescindir de esta soluci ón tan insatisfactoria del problema de la 
+verdad. Los desacuerdos, a menudo, se 
+resuelven solicitando 
+definiciones, y las definiciones operacionales son especialmente útiles, 
+si bien el operacionismo no se ocupa primordialmente de 
+la 
+comunicaci ón ni de la controversia. Es uno de los principios más útiles, 
+precisamente, porque no lo es. El habitante solitario de una isla 
+desierta podr ía 
+llegar a definiciones operacionales. siempre que 
+previamente hubiera estado equipado de un adecuado repertorio 
+verbal. El criterio último de la bondad de un concepto no es el que dos 
+personas lleguen a un acuerdo, sino que el cient ífico que utiliza el 
+concepto esté en condiciones de operar con éxito sobre el material, sin 
+ayuda de nadie, si el caso lo requiere. Lo que importa a Robinson 
+Crusoe no es si está de acuerdo consigo mismo, sino si va a alguna 
+parte con su control sobre la naturaleza.  
+
+Se echa de ver por qué el psic ólogo subjetivista da tanta importancia al 
+acuerdo. En un tiempo fue distracci ón favorita la de tomarlo a chacota 
+en relaci ón con las correspondencias entre sujetos. «¿Cómo sabe usted 
+que la sensaci ón O del verde es igual que la E?», etc. Pero el acuerdo 
+por si solo significa muy poca cosa. Varias épocas en la historia de la 
+filosof ía y de la psicolog ía han sido testigos de un acuerdo total en lo 
+que respecta a la definici ón de los términos psicol ógicos.
+ Esto es cosa 
+que contribuye a 
+la satisfacci ón,
+ no al progreso. El acuerdo, 
+probablemente, se estrellará en pedazos cuando alguien descubra que 
+hay un conjunto de términos que realmente no surtirá efecto acaso en 
+un campo hasta aqu í descuidado, aunque tal cosa no convierte el 
+acuerdo en clave de la viabilidad. Por el contrario, el efecto es 
+totalmente opuesto.  
+
+3) La distinci ón entre público y privado no es en absoluto la misma que 
+la existente entre f ísico y mental. Esta es la raz ón que hace que el 
+18 
+ 
+
+ 
+
+ 
+
+ 
+conductismo metodol ógico (que adopta el primero) sea muy diferente 
+del conductismo radical (que cercena el último término en el segundo). 
+El resultado es que, mientras el conductista radical en ciertos casos 
+puede tener en consideraci ón los hechos privados (tal vez de manera 
+inferencial, aunque no por ello, con menor sentido), el operacionista 
+metodol ógico se ha colocado en una situaci ón en que no le es posible 
+hacerlo. «La ciencia no tiene en consideraci ón los datos privados», dice 
+Boring. (No me gusta pensar en qué lugar deja esta afirmaci ón mi 
+contribuci ón al presente simposio.) Pero yo sostengo que mi dolor de 
+muelas es tan f ísico como mi máquina de escribir, aunque no sea 
+público y no veo por qué una ciencia objetiva y operacional no puede 
+considerar los procesos a través de los cuales se adquiere y mantiene 
+un vocabulario descriptivo de un dolor de muelas. La iron ía del caso es 
+que, mientras Boring debe limitarse a una informaci ón acerca de mi 
+conducta externa, yo sigo interesándome por lo que podr ía llamarse 
+Boring-desde-dentro.  
+
+4) La distinci ón público-privado conduce, evidentemente, a un análisis 
+l ógico  —muy distinto del psicol ógico —
+ de la conducta verbal del 
+cient ífico, aunque no veo motivos de por qué ha de ser as í. Acaso sea 
+porque el subjetivista no se interesa todav ía por los términos, sino por 
+aquello que 
+términos acostumbraban a representar. El único 
+los 
+problema que ha de resolver una ciencia de la conducta, por lo que 
+respecta al subjetivismo, se encuentra en el campo verbal. ¿Cómo 
+explicar la conducta de hablar acerca de hechos mentales? La soluci ón 
+debe ser psicol ógica más que l ógica y en el presente art ículo he tratado 
+de apuntar un enfoque. La total falta de interés por el problema entre 
+los 
+plenamente 
+queda 
+psicol ógicos 
+operacionistas 
+habituales 
+demostrada con el hecho de que los otros únicos miembros de este 
+grupo que parecen interesarse por un análisis causal de la conducta 
+verbal son los dos que no son psic ólogos (uno de ellos, l ógico).  
+
+Mi reacci ón ante este simposio es, pues, doble. La confusi ón que parece 
+haber surgido de un principio que se supone iba a eliminar la confusi ón 
+resulta desconcertante. Pero, considerándolo mejor, resulta que la 
+posibilidad de un operacionismo genuino en psicolog ía todav ía no ha 
+sido plenamente explorada. Con muy poco esfuerzo puedo revivir mi 
+
+ 
+
+19 
+
+ 
+entusiasmo de hace quince años. ( Éste, por supuesto, es un hecho 
+privado.)  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 
+
+ 
+
+ 
+
+ 
+
+Notas:  
+
+1. Stevens. S. S. «Psychology and the science of science». Psychol. Bull., 1939, 36, 
+221-263.  
+
+ la 
+2. Lyle H. Lanier me ha señalado el hecho de que Harry M. Johnson comprendi ó
+argumentaci ón de Bridgman y aplic ó
+ el criterio operacional al concepto de 
+intensidad de una sensaci ón casi con un año de anterioridad a la aparici ón de mi 
+art ículo (Psychol. Rev., 1930, 37, 113-123).  
+ 
+
+ 
+
+21 
+
+

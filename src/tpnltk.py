@@ -1,9 +1,16 @@
+import gensim
 from gensim import corpora, similarities, models
+from gensim.matutils import cossim
 import nltk, codecs
+import numpy as np
 import json
 import sys, os, argparse
 import glob
 import pprint
+
+nltk.download('punkt')
+nltk.download('stopwords')
+STOPWORDS = nltk.corpus.stopwords.words('spanish')
 
 def get_corpus_filenames(path):
     import glob
@@ -11,6 +18,15 @@ def get_corpus_filenames(path):
     for f in glob.glob(os.path.join(path, '*.json')):
         filenames.append(f)
     return filenames
+
+def remove_once_app_words(news):
+    all_tokens = sum(news, [])
+    #print all_tokens
+    tokens_once = set(word for word in set(all_tokens)
+                      if all_tokens.count(word) == 1)
+    return [[word for word in new if word not in tokens_once] for
+            new in news ]
+    
 
 def get_corpus(path):
     # get corpus (la nacion)
@@ -26,20 +42,27 @@ def get_corpus(path):
     for i in xrange(len(d)):
         wordss = []
         words = nltk.word_tokenize(d[i]['copete'])
-        words = [word.lower() for word in words]
+        words = [word.lower()
+                 for word in words
+                 if word not in STOPWORDS]
         wordss.extend(words)
 
         cuerpo = ','.join(d[i]['cuerpo'])
         words = nltk.word_tokenize(cuerpo)
-        words = [word.lower() for word in words]
+        words = [word.lower()
+                 for word in words
+                 if word not in STOPWORDS]
         wordss.extend(words)
 
         words = nltk.word_tokenize(d[i]['titulo'])
-        words = [word.lower() for word in words]
+        words = [word.lower()
+                 for word in words
+                 if word not in STOPWORDS]
         wordss.extend(words)
 
         news.append(wordss)
 
+    news = remove_once_app_words(news)
     dictionary = corpora.Dictionary(news)
     # print dictionary
     corpus = [dictionary.doc2bow(new) for new in news]
@@ -103,17 +126,30 @@ def doc_similarity(doc, dictionary, lsi_model, index):
     sim = []
     for i,s1 in enumerate(doc):
         try:
+            s1 = doc[i]
             s2 = doc[i+1]
-            sentences = dictionary.doc2bow((s1+s2).lower().split())
-            sentences_vect = lsi_model[sentences]
-            sentences_sim = index[sentences_vect]
+            # sentences = dictionary.doc2bow((s1+s2).lower().split())
+            # sentences_vect = lsi_model[sentences]
+            # sentences_sim = index[sentences_vect]
+            # sentences_sim = np.mean(sentences_sim)
+            # std = np.std(sentences_sim)
+            
+            s11 = dictionary.doc2bow(s1.lower().split())
+            s22 = dictionary.doc2bow(s2.lower().split())
+            s1_vec = [lsi_model[s11]]
+            s2_vec = [lsi_model[s22]]
+            s1_sim_mean = np.mean(index[s1_vec])
+            s2_sim_mean = np.mean(index[s2_vec])
+            print s1_sim_mean
+            print s2_sim_mean
+            sentences_sim = [gensim.matutils.cossim(s2_sim_mean, s2_sim_mean)]
+            #print sentences_sim
             sim.append(sentences_sim)
         except:
             pass
     return sim
 
 def main():
-    nltk.download('punkt')
     path, text, tokenizer = process_command_line_args(sys.argv)
     # path = '../textos/freud/'
     # text = 'Volumen_I.pdf.txt'
@@ -127,7 +163,8 @@ def main():
     index = similarities.MatrixSimilarity(lsi_model[corpus])
 
     sim_coeff = doc_similarity(text, dictionary, lsi_model, index)
-    pprint.pprint( sim_coeff[:3] )
+    pprint.pprint( sim_coeff)
+    # pprint.pprint( np.std(sim_coeff))
 
 if __name__ == '__main__':
     main()
